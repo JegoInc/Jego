@@ -16,7 +16,7 @@ description: 由于产品特性导致我们会不断更新版本的方式来保�
 
 ### 在线更新
 
-#### <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5JRmsC6cdLC8T1CMokaN_2Fmsedge_3.png" width="38" height="28" alt="Edge图标"> Edge：
+#### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5JRmsC6cdLC8T1CMokaN_2Fmsedge_3.png" width="38" height="28" alt="Edge图标"> Edge：
 
 * 方式一：通过Edge商店更新：[https://microsoftedge.microsoft.com/addons/detail/bkpoijbobhmbglhjjmnoedomdoabilol](https://microsoftedge.microsoft.com/addons/detail/bkpoijbobhmbglhjjmnoedomdoabilol)
 * 方式二：在Edge地址栏内输入`edge://extensions/`打开Edge插件管理界面，在右上角找到`更新`按钮，点击后等待自动更新完成。
@@ -27,7 +27,7 @@ description: 由于产品特性导致我们会不断更新版本的方式来保�
 ⚡快来试试[在Edge里安装Chrome的插件](/guide/installation#edge也可以从chrome-web-store安装无忧行)吧⚡
 :::
 
-#### <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fomxd1Mr1qsuzHUduonWU_2Fchrome_1.png" width="38" height="28" alt="Chrome图标"> Chrome：
+#### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fomxd1Mr1qsuzHUduonWU_2Fchrome_1.png" width="38" height="28" alt="Chrome图标"> Chrome：
 
 * 方式一：通过Chrome商店更新：[https://chrome.google.com/webstore/detail/bnnamacamhjbdoimlbkegmbgkekphcbb](https://chrome.google.com/webstore/detail/bnnamacamhjbdoimlbkegmbgkekphcbb)
 * 方式二：在Chrome地址栏内输入 `chrome://extensions/` 打开Chrome插件管理界面，在左上角找到`更新`按钮，点击后等待自动更新完成。
@@ -35,7 +35,7 @@ description: 由于产品特性导致我们会不断更新版本的方式来保�
 
 ### 手动更新
 
-#### 安装包支持<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5C1uC1qTbxO3LKHO4oql_2Fmsedge_2.png" width="38" height="28" alt="Edge图标">Edge、<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FczhA5KDPiurdPyCanu1Z_2Fchrome_3.png" width="38" height="28" alt="Chrome图标">Chrome、<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbhAczGOlghKJxh3Y4N7u_2FQQBrowser_1.png" width="38" height="28" alt="QQ浏览器图标">QQ浏览器、<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FYHwAipQtF3QwJ7z85hyz_2F360se_2.png" width="38" height="28" alt="360浏览器图标">360浏览器
+#### 安装包支持<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5C1uC1qTbxO3LKHO4oql_2Fmsedge_2.png" width="38" height="28" alt="Edge图标">Edge、<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FczhA5KDPiurdPyCanu1Z_2Fchrome_3.png" width="38" height="28" alt="Chrome图标">Chrome、<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbhAczGOlghKJxh3Y4N7u_2FQQBrowser_1.png" width="38" height="28" alt="QQ浏览器图标">QQ浏览器、<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FYHwAipQtF3QwJ7z85hyz_2F360se_2.png" width="38" height="28" alt="360浏览器图标">360浏览器
 
 由于无忧行官网提供的安装包经常被中国大陆屏蔽，你可以通过
 

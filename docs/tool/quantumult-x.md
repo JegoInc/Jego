@@ -5,7 +5,7 @@ description: Quantumult X是iOS上一款功能强大的网络工具。
 
 # Quantumult X
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuap2kKrwZ32jilQhXxlt_2Fquantumultx_3.png" width="26" height="26" alt="Quantumult X图标"> 获取Quantumult  X
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuap2kKrwZ32jilQhXxlt_2Fquantumultx_3.png" width="26" height="26" alt="Quantumult X图标"> 获取Quantumult  X
 
 目前 Quantumult X已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。
 
@@ -26,19 +26,19 @@ description: Quantumult X是iOS上一款功能强大的网络工具。
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**Quantumult X**订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQm1BeQfkNoZIVisl8RpP_2Fimage_1.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQm1BeQfkNoZIVisl8RpP_2Fimage_1.png" alt="无忧行控制面板">
 
 打开 **Quantumult X**，打开App，点击**右下角图标** <img src="https://file.olo4.com/unpanel/quantumult%20x%20setup.jpg" alt="quantumult_x_setup">
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FTYLTzRrBAtQzw9mgGxzK_2Fimage_3.png" alt="Quantumult X界面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FTYLTzRrBAtQzw9mgGxzK_2Fimage_3.png" alt="Quantumult X界面">
 
 点击**引用 (订阅)**
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F97V2k4pLgEOedDsWg1Vm_2Fimage_1.png" alt="引用订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F97V2k4pLgEOedDsWg1Vm_2Fimage_1.png" alt="引用订阅">
 
 点击右上角的**新增图标**
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuk1yuYNiBlEaMsKoAONI_2Fimage_2.png" alt="新增图标">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuk1yuYNiBlEaMsKoAONI_2Fimage_2.png" alt="新增图标">
 
 粘贴刚刚复制的"订阅地址" ， 轻点右上角 "确定"。最后看到导入成功的弹窗，再点击"确定"。
 
@@ -54,4 +54,4 @@ description: Quantumult X是iOS上一款功能强大的网络工具。
 * 彩色图标代表**规则分流**，即客户端根据配置文件的规则集自动判断是否需要代理网络数据，**推荐切换到此模式使用**。
 * 蓝色图标代表**全部代理**，即所有流量都要经过代理中转，该模式只推荐在规则分流不能使用时再用，否则会消耗过多流量，并导致国内部分站点不能正常访问。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmHZ6WRyt5hJsKl3g3SUI_2Fimage_3.png" alt="代理模式">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmHZ6WRyt5hJsKl3g3SUI_2Fimage_3.png" alt="代理模式">

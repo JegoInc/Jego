@@ -40,7 +40,7 @@ jegocloud@gmail.com
 
 **邮件附件的具体问题截图参考：**
 
-![遇到具体问题的详细截图](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F0afkMRTfjnf1NzV4HqX3_2Fimage_3.png)
+![遇到具体问题的详细截图](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F0afkMRTfjnf1NzV4HqX3_2Fimage_3.png)
 
 ::: info 问题越具体，响应越快速！
 
@@ -49,7 +49,7 @@ jegocloud@gmail.com
 
 ### 💔无效反馈
 
-![无具体问题的描述、截图等有效信息](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fbdg94Dg1RfBdLyc4L8EI_2Fimage_1.png)
+![无具体问题的描述、截图等有效信息](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fbdg94Dg1RfBdLyc4L8EI_2Fimage_1.png)
 
 如上图所示，所有无具体情况描述、只说有问题的邮件，都是**无效反馈**邮件。
 

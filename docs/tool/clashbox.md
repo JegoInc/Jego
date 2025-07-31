@@ -25,7 +25,7 @@ ClashBox暂未开源，请谨慎使用。
 PuraX外屏目前仅显示华为白名单内的App，在本软件获得白名单之前暂不可用。
 :::
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F383xngX8wSAPFZZieolo_2FClashBox_2.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F383xngX8wSAPFZZieolo_2FClashBox_2.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
 
 Github库：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.com/xiaobaigroup/ClashBox/releases)
 
@@ -43,6 +43,6 @@ Github库：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.c
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到Mihomo 订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fbf6ZGnMBZioZr9rD5P5J_2Fimage_2.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fbf6ZGnMBZioZr9rD5P5J_2Fimage_2.png" alt="无忧行控制面板">
 
 ClashBox/ClashNEXT 使用攻略施工中……（大饼

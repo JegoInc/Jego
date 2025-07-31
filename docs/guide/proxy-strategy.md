@@ -20,7 +20,7 @@ description: 设置好代理策略可以让国外的网站自动走代理，而�
 5. 继续添加代理策略，Proxy Server选择直连\[不走代理]
 6. Domain/Host List填写<span style="color:blue;">`acg.tv acgvideo.com b23.tv bilibili.com bilibili.tv biliapi.net biliapi.com bilivideo.com hdslb.com upos-hz-mirrorakam.akamaized.net`</span>点击保存。
 
-![代理策略配置](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5RzPsyUBc5EyBgkQyZ9h_2Fimage_3.png)
+![代理策略配置](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5RzPsyUBc5EyBgkQyZ9h_2Fimage_3.png)
 
 配置成功后，<span style="color:green;">`Rules`</span>模式下使用无忧行时，<span style="color:blue;">`哔哩哔哩`</span>都是直接连接，<span style="color:blue;">`bbc.com`</span>及<span style="color:blue;">`*.bbc.com`</span>都将走伦敦服务器，<span style="color:blue;">`nikkei.com`</span>及<span style="color:blue;">`*.nikkei.com`</span>都将走东京服务器。
 

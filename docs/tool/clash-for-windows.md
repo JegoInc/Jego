@@ -11,7 +11,7 @@ description: 本文是Clash for Windows客户端的教程，Clash for Windows已
 请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
 :::
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4VjXObRb6A8YcNiBGA9e_2Fclash_2.png" width="26" height="26" alt="Clash图标"> 获取Clash for Windows
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4VjXObRb6A8YcNiBGA9e_2Fclash_2.png" width="26" height="26" alt="Clash图标"> 获取Clash for Windows
 
 可从这里下载最后版本的备份文件：[https://archive.org/download/clash_for_windows_pkg](https://archive.org/download/clash_for_windows_pkg)
 
@@ -25,25 +25,25 @@ macOS请下载<span style="color:blue;">`Clash.for.Windows-[版本号]-mac.7z`</
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**Clash/Mihomo Series**订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZi4WzVyeec9wgY50xRLc_2Fimage_2.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZi4WzVyeec9wgY50xRLc_2Fimage_2.png" alt="无忧行控制面板">
 
 打开 Clash for Windows，点击窗口左侧的 **Profiles** (配置文件)。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKUWlGIFpAyHjpFHOAhYE_2Fimage_3.png" alt="Profiles页面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKUWlGIFpAyHjpFHOAhYE_2Fimage_3.png" alt="Profiles页面">
 
 在 Profiles 页面顶部，粘贴 **Clash 配置订阅链接**，随后点击 **Download** 下载配置文件。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FFXfU18yTGxoAoAIfYaGe_2Fimage_1.png" alt="下载配置">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FFXfU18yTGxoAoAIfYaGe_2Fimage_1.png" alt="下载配置">
 
 下载成功后，Clash for Windows 将自动切换至下载的配置文件。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbOBW1Ud8wrXZ9pMWTw1x_2Fimage_2.png" alt="配置成功">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbOBW1Ud8wrXZ9pMWTw1x_2Fimage_2.png" alt="配置成功">
 
 ## 使用说明 {#dai-li-proxies}
 
 ### 常规 General {#chang-gui-general}
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FN1xu9dCMCxl1cWQXK0Co_2Fimage_3.png" alt="常规设置">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FN1xu9dCMCxl1cWQXK0Co_2Fimage_3.png" alt="常规设置">
 
 在常规页面下可以清楚了解当前配置文件的设置，譬如常规的 http 和 socks5 代理端口等，方便对某些应用单独进行配置代理。
 
@@ -91,7 +91,7 @@ macOS请下载<span style="color:blue;">`Clash.for.Windows-[版本号]-mac.7z`</
 
 ### 代理 Proxies {#dai-li-proxies-2}
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F0ItaMGtYXVi98CkgiosU_2Fimage_1.png" alt="代理页面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F0ItaMGtYXVi98CkgiosU_2Fimage_1.png" alt="代理页面">
 
 代理页面主要的作用就是**切换代理模式**和**切换节点**
 

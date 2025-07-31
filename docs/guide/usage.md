@@ -16,7 +16,7 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 `使用无忧行插件，注册个账户就能免费翻墙！`
 
-![免费版翻墙](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjlY9kf0MMYiw6POXkNyC_2Fimage_2.png)
+![免费版翻墙](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjlY9kf0MMYiw6POXkNyC_2Fimage_2.png)
 
 点击小窗上的<span style="color:green;">`开启`</span>按钮，即可开启代理模式，有限地突破部分封锁，<span style="color:orange;">仅能访问谷歌、维基百科、New Bing以及ChatGPT</span>；
 
@@ -28,7 +28,7 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 `使用无忧行插件，成为会员就能获得无限流量、畅通无阻的全球互联网访问体验。`
 
-![会员翻墙后可访问任意网址](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfbQg0ayrr74bF0hLZJF3_2Fimage_3.png)
+![会员翻墙后可访问任意网址](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfbQg0ayrr74bF0hLZJF3_2Fimage_3.png)
 
 点击小窗上的<span style="color:green;">`全局`</span>按钮，即可开启全局模式进行访问，访问任意网址都将经由代理（包括大陆地区的网站）。
 
@@ -40,11 +40,11 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 * 当你选择节点或者模式时，顶部的无忧行LOGO会变成小圆圈，代表正在处理你的请求（如下图所示），请保持耐心，继续等待；
 
-![保持耐心，继续等待](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEPZl6HpdHgrDpHRkosCo_2Fimage_1.png)
+![保持耐心，继续等待](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEPZl6HpdHgrDpHRkosCo_2Fimage_1.png)
 
 * 直到插件小窗口顶部的小圆圈变成无忧行的LOGO之后，才代表你的设置被成功处理完毕（如下图所示）。
 
-![成功](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png)
+![成功](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png)
 
 ---
 

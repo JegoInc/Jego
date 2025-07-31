@@ -19,28 +19,28 @@ Clash for Android已于2023年11月3日下架。
 可以移步 [Clash/Mihomo系列软件](/tool/mihomo) 页面获取最新软件。
 :::
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FOSsqZTRrboImnICfYPE0_2Fclash_3.png" width="26" height="26" alt="Clash图标"> ~~获取 Clash for Android~~
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FOSsqZTRrboImnICfYPE0_2Fclash_3.png" width="26" height="26" alt="Clash图标"> ~~获取 Clash for Android~~
 
 1. ~~Google Play:~~ [~~https://play.google.com/store/apps/details?id=com.github.kr328.clash~~](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 2. APKPure: [https://apkpure.com/clash-for-android/com.github.kr328.clash](https://apkpure.com/clash-for-android/com.github.kr328.clash)
 3. ~~Github release:~~ [~~https://github.com/Kr328/ClashForAndroid/releases~~](https://github.com/Kr328/ClashForAndroid/releases)
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FL71PvhWJcSBBz3HTeoia_2Fimage_1.png" alt="Clash for Android界面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FL71PvhWJcSBBz3HTeoia_2Fimage_1.png" alt="Clash for Android界面">
 
 ## 添加订阅
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到Clash/Mihomo Series订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZi4WzVyeec9wgY50xRLc_2Fimage_2.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZi4WzVyeec9wgY50xRLc_2Fimage_2.png" alt="无忧行控制面板">
 
 打开 Clash for Android ，依次进入 **配置** > **新配置** > **URL** 。 \
 在 URL 一栏中粘贴 Clash 配置订阅链接；自动更新 (分钟) 推荐填写 **1440** ，即每 24 小时自动从链接中更新配置文件。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fr3VUO5pTi3Lsxa5xPKFj_2Fimage_3.png" alt="配置界面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fr3VUO5pTi3Lsxa5xPKFj_2Fimage_3.png" alt="配置界面">
 
 完成后点击右上角的 **保存** 按钮，Clash for Android 将下载配置文件，请点击 **选中** 添加的配置文件。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fcxxf7sxonH8ugEyreooD_2Fimage_1.png" alt="保存配置">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fcxxf7sxonH8ugEyreooD_2Fimage_1.png" alt="保存配置">
 
 ## 开启代理
 
@@ -48,15 +48,15 @@ Clash for Android已于2023年11月3日下架。
 
 点击代理，在上方模式中选择对应节点即可。您亦可以选择相应应用，使用对应的代理节点。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4RjUE6nSLiUqpSjeX7Pu_2Fimage_2.png" alt="开启代理">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4RjUE6nSLiUqpSjeX7Pu_2Fimage_2.png" alt="开启代理">
 
 ## 选择代理模式
 
 前往 App 主页，轻点「代理 / Proxy」>「┇」>「模式 / Mode」，根据您的需求选择代理模式。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKgx0JHC9I5UfcSThfdKI_2Fimage_3.png" alt="第一步">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKgx0JHC9I5UfcSThfdKI_2Fimage_3.png" alt="第一步">
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FdJ4k00uXfskraienxjBw_2Fimage_1.png" alt="第二步">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FdJ4k00uXfskraienxjBw_2Fimage_1.png" alt="第二步">
 
 ### **规则 / Rule：只代理国外流量**
 

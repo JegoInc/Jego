@@ -9,7 +9,7 @@ description: 如何用正确的姿势在中国大陆解锁New Bing、Copilot或�
 
 1️⃣ **第一步**，确保 **无忧行** 的 **控制面板 - 代理策略** 里没有<span style="color:blue;">`bing.com`</span>、<span style="color:blue;">`microsoft.com`</span>和<span style="color:blue;">`openai.com`</span>的访问策略：
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FP4697dXOzW45YZoWIk0T_2Fimage_3.png" alt="代理策略">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FP4697dXOzW45YZoWIk0T_2Fimage_3.png" alt="代理策略">
 
 ::: danger 再次强调
 <span style="color:red;">**再次强调：**</span>
@@ -19,15 +19,15 @@ description: 如何用正确的姿势在中国大陆解锁New Bing、Copilot或�
 
 2️⃣ **第二步**，无忧行插件的模式处于`[全局]`和`[规则]`均可，服务器节点可以随意选择：
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FkeJOr6KeXyIxonlfJZdU_2Fimage_1.png" alt="无忧行">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FkeJOr6KeXyIxonlfJZdU_2Fimage_1.png" alt="无忧行">
 
 ✅ **大功告成**，️你已经成功地完成了`Bing`、`Copilot`和`ChatGPT`解锁：
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F8xAkeKaPFvJCAt1MuBYf_2Fimage_2.png" alt="New Bing ✌">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F8xAkeKaPFvJCAt1MuBYf_2Fimage_2.png" alt="New Bing ✌">
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fz7RH5pwBUDwrBQdsdvah_2Fimage_3.png" alt="Copilot ✌">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fz7RH5pwBUDwrBQdsdvah_2Fimage_3.png" alt="Copilot ✌">
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F8oyNaJcc0tFJdbungX6t_2Fimage_1.png" alt="ChatGPT ✌">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F8oyNaJcc0tFJdbungX6t_2Fimage_1.png" alt="ChatGPT ✌">
 
 ::: info 就是这么简单
 

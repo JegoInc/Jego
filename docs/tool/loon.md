@@ -11,7 +11,7 @@ description: Loon是一个集网络代理、网络调试、网络改写等一系
 请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
 :::
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrQykYPazvOUVLyWMmu7C_2Floon_2.png" width="26" height="26" alt="Loon图标"> 获取Loon
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrQykYPazvOUVLyWMmu7C_2Floon_2.png" width="26" height="26" alt="Loon图标"> 获取Loon
 
 目前 Loon 已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。
 
@@ -32,29 +32,29 @@ description: Loon是一个集网络代理、网络调试、网络改写等一系
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点**  ，找到 Loon 订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FepWbFG2WzCAPvzzriSLX_2Fimage_3.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FepWbFG2WzCAPvzzriSLX_2Fimage_3.png" alt="无忧行控制面板">
 
 进入Loon ，按照 **Profile** -> **All Nodes** -> :heavy_plus_sign:  的路径点击点击到如下图所示，把复制好的订阅地址粘贴到地址栏，同时填写名字，最后点击右上角的确认按钮完成添加。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEYFUwKu3KY9d1JL8NVE2_2Fimage_1.png" alt="添加订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEYFUwKu3KY9d1JL8NVE2_2Fimage_1.png" alt="添加订阅">
 
 ### 更新订阅
 
 请按照 **Profile** -> **All Nodes** 的路径，找到如下图所示的更新按钮，点击更新，确保无忧行订阅处于最新状态。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIhCrOe98FALWFYmAurzq_2Fimage_2.png" alt="更新订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIhCrOe98FALWFYmAurzq_2Fimage_2.png" alt="更新订阅">
 
 ## **连接服务器**
 
 点击Loon首页右上角的开关连接服务器。首次启动时会请求 VPN 权限，需要点击确定允许。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FxLdRMzAXNoPRs46OFvAY_2Fimage_3.png" alt="连接服务器">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FxLdRMzAXNoPRs46OFvAY_2Fimage_3.png" alt="连接服务器">
 
 ## 流量模式的选择
 
 点击首页右上角LOON下方的小字，点后会展示如下图所示流量的模式，可以选择
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FpJrQaTyQ0miteU5xrNGH_2Fimage_1.png" alt="流量模式">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FpJrQaTyQ0miteU5xrNGH_2Fimage_1.png" alt="流量模式">
 
 * Global Direct （全局直连，相当于都不走代理）
 * Rule Base（基于规则选择性的直连和代理）

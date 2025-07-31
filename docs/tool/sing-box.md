@@ -14,7 +14,7 @@ sing-box 是一款全新的内核，几乎支持目前所有协议，还拥有�
 * **适用于多种平台**：sing-box提供了对多个操作系统的支持，包括macOS、Windows、Linux、Android和iOS平台，这使得它能够满足不同用户的需求​​。
 * **图形界面客户端**：为了方便用户操作，sing-box官方就提供了图形界面客户端，简化了配置和管理过程。
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FX6LBfzRlMdWyQVvPC9eg_2Fimage_1.png" width="26" height="26" alt="sing-box图标"> 获取sing-box
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FX6LBfzRlMdWyQVvPC9eg_2Fimage_1.png" width="26" height="26" alt="sing-box图标"> 获取sing-box
 
 ### 苹果全家桶
 

@@ -38,7 +38,7 @@ Mihomo生态里目前还没有好用的iOS产品
 
 ### 下列软件能用但不推荐：
 
-### <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows图标"> Windows
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows图标"> Windows
 
 [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
 
@@ -48,7 +48,7 @@ Mihomo生态里目前还没有好用的iOS产品
 
 [Clash N](https://github.com/2dust/clashN) 是v2rayN的作者开发的基于Mihomo核心的翻墙客户端，同样是简单易用。
 
-### <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS图标"> macOS
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS图标"> macOS
 
 [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
 
@@ -58,7 +58,7 @@ Mihomo生态里目前还没有好用的iOS产品
 
 [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) 旨在提供一个简单轻量化的代理客户端。
 
-### <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux图标"> Linux
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux图标"> Linux
 
 [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
 
@@ -66,7 +66,7 @@ Mihomo生态里目前还没有好用的iOS产品
 
 [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
 
-### <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android图标"> Android
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android图标"> Android
 
 [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) 是根据Clash for Android修改的基于Mihomo核心的版本，界面简单易用。
 
@@ -80,7 +80,7 @@ Mihomo生态里目前还没有好用的iOS产品
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**Mihomo** 订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIiJUB1Wa62NjydQ7rhLb_2Fimage_1.png" alt="Mihomo订阅地址">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIiJUB1Wa62NjydQ7rhLb_2Fimage_1.png" alt="Mihomo订阅地址">
 
 ## 电脑上：Mihomo Party 翻墙视频教程
 

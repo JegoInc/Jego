@@ -11,7 +11,7 @@ description: OneClick是一款免费的支持主流加密协议的上网工具�
 请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
 :::
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJbOoXNw3x77qs1JZbQlI_2Foneclick_2.png" width="26" height="26" alt="OneClick图标"> 获取OneClick
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJbOoXNw3x77qs1JZbQlI_2Foneclick_2.png" width="26" height="26" alt="OneClick图标"> 获取OneClick
 
 目前 OneClick 已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。
 
@@ -31,21 +31,21 @@ description: OneClick是一款免费的支持主流加密协议的上网工具�
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**OneClick**订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FSw1y49nJ027tgYJL8gvd_2Fimage_3.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FSw1y49nJ027tgYJL8gvd_2Fimage_3.png" alt="无忧行控制面板">
 
 进入OneClick，点击右上角的"+"按钮，进入添加服务器界面，点击"添加订阅"按钮，把复制好的订阅地址粘贴到地址栏，同时填写备注信息，最后点击右上角的确认按钮完成添加。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FWm6CG03AfjzAkGt3RHPJ_2Fimage_1.png" alt="添加订阅1">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FWm6CG03AfjzAkGt3RHPJ_2Fimage_1.png" alt="添加订阅1">
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FtTr0wTQ6k14eJ1gwqgsE_2Fimage_2.png" alt="添加订阅2">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FtTr0wTQ6k14eJ1gwqgsE_2Fimage_2.png" alt="添加订阅2">
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F1VpSCcwkjZkhUnrauDAZ_2Fimage_3.png" alt="添加订阅3">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F1VpSCcwkjZkhUnrauDAZ_2Fimage_3.png" alt="添加订阅3">
 
 ## **选择服务器**
 
 进入OneClick首页，点击服务器选择按钮，进入服务器列表界面，选择需要连接的服务器
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVg9Odr50e7St5quFjRHj_2Fimage_1.png" alt="选择服务器">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVg9Odr50e7St5quFjRHj_2Fimage_1.png" alt="选择服务器">
 
 ## **选择代理模式**
 
@@ -59,4 +59,4 @@ OneClick提供自动、全局、直连模式，点击选择指定模式。
 
 点击OneClick首页连接按钮，连接服务器。首次启动时会请求 VPN 权限，需要点击确定允许。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjHJ6f1fmiDH7wANQRtRL_2Fimage_2.png" alt="连接服务器">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjHJ6f1fmiDH7wANQRtRL_2Fimage_2.png" alt="连接服务器">

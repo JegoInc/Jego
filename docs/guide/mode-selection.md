@@ -6,7 +6,7 @@ title: 模式选择 - 使用指南
 
 ## 🆓免费版
 
-![免费版界面](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNLG3eiq1aT1jbzIlJMK6_2Fimage_3.png)
+![免费版界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNLG3eiq1aT1jbzIlJMK6_2Fimage_3.png)
 
 当你的无忧行处于上图所示的状态，就代表着你在使用无忧行为你提供的免费服务。
 
@@ -16,7 +16,7 @@ title: 模式选择 - 使用指南
 
 | 开启时 | 关闭时 |
 | --- | --- |
-| ![开启图标](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![关闭图标](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
+| ![开启图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![关闭图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
 
 ### 开启
 
@@ -34,23 +34,23 @@ title: 模式选择 - 使用指南
 
 | 全局模式时 | 规则模式时 | 关闭时 |
 | --- | --- | --- |
-| ![全局模式图标](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FV7GBb6vuAEgevLPNPepU_2Ficon48_3.png) | ![规则模式图标](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![关闭图标](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
+| ![全局模式图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FV7GBb6vuAEgevLPNPepU_2Ficon48_3.png) | ![规则模式图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![关闭图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
 
 ### 全局
 
-![全局模式界面](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FK6K01ecRRkVwOVBylMbZ_2Fimage_1.png)
+![全局模式界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FK6K01ecRRkVwOVBylMbZ_2Fimage_1.png)
 
 当你的无忧行处于上图所示的状态（即<span style="color:green;background-color:green;">全局</span>按钮为选中状态），就代表着你使用浏览器的全局模式进行访问，访问任意网址都将经由代理（包括大陆地区的网站）。
 
 ### 规则
 
-![规则模式界面](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhrnVGhPqgh111EAOaSwA_2Fimage_2.png)
+![规则模式界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhrnVGhPqgh111EAOaSwA_2Fimage_2.png)
 
 当你的无忧行处于上图所示的状态（即<span style="color:green;background-color:green;">规则</span>按钮为选中状态），就代表着你使用浏览器的规则模式进行访问，访问任意网址都将先经过无忧行内置的规则判断是否直接访问还是经由代理访问，大陆地区的网址将默认为直接连接，境外被屏蔽的网站设为经由代理服务器访问，享受自由且高速的冲浪。
 
 ### 关闭
 
-![关闭模式界面](/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FISwY5XX4FX2qker0nOYC_2Fimage_3.png)
+![关闭模式界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FISwY5XX4FX2qker0nOYC_2Fimage_3.png)
 
 当你的无忧行处于上图所示的状态（即`关闭`按钮为选中状态），就代表着你关闭了浏览器的代理功能，访问任意网址都将使用你本地网络直接访问（此时无法访问境外境外被屏蔽的网站）。
 

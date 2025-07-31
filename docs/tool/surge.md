@@ -5,7 +5,7 @@ description: Surge是一个 Web 开发和代理实用程序。
 
 # Surge
 
-## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FoBLta0TNRbF6ARUAOFxW_2Fsurge_1.png" width="26" height="26" alt="Surge图标"> 获取Surge
+## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FoBLta0TNRbF6ARUAOFxW_2Fsurge_1.png" width="26" height="26" alt="Surge图标"> 获取Surge
 
 目前 Surge已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。
 
@@ -23,26 +23,26 @@ Surge 的网络代理功能需要解锁 Pro 授权，可通过 [AppStore 内购]
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**Surge**订阅地址并点击**复制**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIJSBJWhaXZhdze3wrTAj_2Fimage_2.png" alt="无忧行控制面板">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIJSBJWhaXZhdze3wrTAj_2Fimage_2.png" alt="无忧行控制面板">
 
 打开 Surge 软件，点击左上角下拉菜单。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6jHcOdya25R6pHIgZwf6_2Fimage_3.png" alt="下拉菜单">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6jHcOdya25R6pHIgZwf6_2Fimage_3.png" alt="下拉菜单">
 
 在弹出的窗口中选择 **"从 URL 下载配置"**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FT8njkgrzxCyaNLCMBoqg_2Fimage_1.png" alt="下载配置">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FT8njkgrzxCyaNLCMBoqg_2Fimage_1.png" alt="下载配置">
 
 将复制好的订阅 / 托管链接粘贴到文本框内。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FlMOTPoPWRopqPazVmxsG_2Fimage_2.png" alt="粘贴链接">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FlMOTPoPWRopqPazVmxsG_2Fimage_2.png" alt="粘贴链接">
 
 等待若干秒，可以看到刚下载的配置文件。（此处图片仅作为演示，请以实际情况为准）
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Rpg9XgtFWEDdQwo5FJ2_2Fimage_3.png" alt="配置文件">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Rpg9XgtFWEDdQwo5FJ2_2Fimage_3.png" alt="配置文件">
 
 回到软件首页，点击左上角的 **开始**。首次启动时会提示是否创建 VPN 隧道，请点击 **允许**。
 
-<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Ft80CtVLqpyO2IboAxhnj_2Fimage_1.png" alt="开始连接">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Ft80CtVLqpyO2IboAxhnj_2Fimage_1.png" alt="开始连接">
 
 此时你的设备将默认连接节点列表中的第一个节点。
