@@ -5,7 +5,6 @@ export default defineConfig({
   title: "无忧行 - 使用指南",
   description: "无忧行是最好用的免费代理工具，专为Edge和Chrome浏览器设计",
   
-  // 设置基础路径，用于 GitHub Pages 部署
   // 使用自定义域名时设置为根路径
   base: '/',
   
