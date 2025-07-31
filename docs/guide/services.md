@@ -30,7 +30,7 @@ description: 为确保你能正确地使用无忧行，您必须要了解的无�
 
 登录后如下图所示，就代表你正在使用我们提供的免费服务。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FNLG3eiq1aT1jbzIlJMK6%2Fimage.png?alt=media&token=7254a8ad-a443-40d7-9128-a464114303bd" alt="免费版本界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNLG3eiq1aT1jbzIlJMK6_2Fimage_3.png" alt="免费版本界面">
 
 ## 限时体验
 
@@ -40,10 +40,10 @@ description: 为确保你能正确地使用无忧行，您必须要了解的无�
 
 登录后如下图所示，就代表你正在使用我们的限时体验服务。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FtEG00TYt5A6V6Bv3qtID%2Fimage.png?alt=media&token=29fe8260-78a3-4009-a6ee-10a686026383" alt="限时体验界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FtEG00TYt5A6V6Bv3qtID_2Fimage_2.png" alt="限时体验界面">
 
 ## 付费服务
 
 登录后如下图所示，就代表你正在使用我们的付费服务。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FhrnVGhPqgh111EAOaSwA%2Fimage.png?alt=media&token=aee33c74-1f24-44a1-b572-c658dc1d54de" alt="付费服务界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhrnVGhPqgh111EAOaSwA_2Fimage_2.png" alt="付费服务界面">

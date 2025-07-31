@@ -38,13 +38,13 @@ description: 你一定有概率遇到问题，不要慌可以通过下面的常�
 
 ### **问题3：重定向次数过多。**
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FF6dZ9YLI7YU5b3kOalpA%2Fimage.png?alt=media&token=d2e298b7-8499-479d-b843-ab15baae2d50" alt="Bing.com 重定向次数过多">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FF6dZ9YLI7YU5b3kOalpA_2Fimage_1.png" alt="Bing.com 重定向次数过多">
 
 **解决办法：**删除 **无忧行** 的 **控制面板 - 代理策略** 里`openai.com`和`bing.com`的访问策略，关掉浏览器、再次打开浏览器、点开无忧行，然后再次尝试访问`bing.com`
 
 ### <span style="color:red;">**问题4：为什么没有New Bing？**</span>
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FPrqRnEhRBtThiFNriRYY%2Fimage.png?alt=media&token=0a4bcaf1-ef7e-4f45-a72d-4828ff805be5" alt="国内版、国际版">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FPrqRnEhRBtThiFNriRYY_2Fimage_2.png" alt="国内版、国际版">
 
 如上图所示一旦出现`国内版`和`国际版`，就代表了你的Bing的账户所在国家为<span style="color:red;">`中国`</span>。
 
@@ -57,23 +57,23 @@ description: 你一定有概率遇到问题，不要慌可以通过下面的常�
 
 2、点击Bing右上角的三个横杠，点击`Country/Region`
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F4X4pVnYK2KWM6XiyHkP6%2Fimage.png?alt=media&token=0b0fc3ea-d331-49a5-9ca5-065e201be4c4" alt="Country/Region">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4X4pVnYK2KWM6XiyHkP6_2Fimage_3.png" alt="Country/Region">
 
 3、把国家按照下列方式更改：
 
 * 请将国家改为<span style="color:blue;">`United States`</span>
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FQFg8JMkptC2tNNiLnUk0%2Fimage.png?alt=media&token=f31805d4-47e4-42c5-886d-f41886bf589c" alt="更改国家设置">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQFg8JMkptC2tNNiLnUk0_2Fimage_1.png" alt="更改国家设置">
 
 4、然后回到Edge的普通模式，访问New Bing，大功告成：
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FlTK7Ld57wxLmFhBvHDz3%2Fimage.png?alt=media&token=e4017404-abc8-437e-b564-2760e7253250" alt="New Bing">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FlTK7Ld57wxLmFhBvHDz3_2Fimage_2.png" alt="New Bing">
 
 #### 演示视频
 
 下方mp4文件是 `cn.bing.com` 切换至`new bing`的演示视频：
 
-<video src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FHdfcY8pUhEOe7afX3nGk%2F20230528-141341.mp4?alt=media&token=2e57a362-3c56-4e28-b561-c4bc7c1ea791" controls></video>
+<video src="/Jego/videos/video_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FHdfcY8pUhEOe7afX3nGk_2F20230528-141341_1.mp4" controls></video>
 
 ::: warning 还是无效？
 <span style="color:orange;">**还是无效？**</span>
@@ -87,7 +87,7 @@ description: 你一定有概率遇到问题，不要慌可以通过下面的常�
 
 在Edge的地址栏内输入`edge://settings/searchEngines` ，点击右上角的`添加/Add`按钮。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F0WsYu8S2aed4NEWVLscQ%2Fimage.png?alt=media&token=63bccc7c-84ca-4e0b-9088-be87c5610ea5" alt="三个空格">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F0WsYu8S2aed4NEWVLscQ_2Fimage_3.png" alt="三个空格">
 
 ```sh
 #Search engine
@@ -105,7 +105,7 @@ bing.com
 1. 访问微软账户设置页 [https://account.microsoft.com/profile](https://account.microsoft.com/profile)
 2. 修改`Country or region`和`Phone number`
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F2urY4db1qFvocDlTtgNj%2Fimage.png?alt=media&token=8c444e00-2f28-4f2f-9fc9-c81b25151afe" alt="微软账户设置">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F2urY4db1qFvocDlTtgNj_2Fimage_1.png" alt="微软账户设置">
 
 * Contry or region改成 <span style="color:blue;">`United States`</span>
 
@@ -115,13 +115,13 @@ bing.com
 
 1、Windows -> 设置 -> 时间和语言 -> 语言和区域
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F9NPKEgiCoLEpqb6WCQMb%2Fimage.png?alt=media&token=61c6a679-b50e-4915-a6d7-2a02fd3bb7d6" alt="国家或地区：法国">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F9NPKEgiCoLEpqb6WCQMb_2Fimage_2.png" alt="国家或地区：法国">
 
 * 国家或地区改成  <span style="color:blue;">`United States`</span>
 
 2、Windows -> 设置 -> 隐私和安全性 -> 位置
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FzQJALXbqHJDo0am5sbx0%2Fimage.png?alt=media&token=d113ba28-7402-4a47-bcab-eca3d07ce7b7" alt="定位服务：关">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FzQJALXbqHJDo0am5sbx0_2Fimage_3.png" alt="定位服务：关">
 
 * 定位服务设置为关
 
@@ -140,7 +140,7 @@ bing.com
 
 ### **问题6：Bing提示：**你已达到今天的对话限制。 登录以继续你的聊天。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FR5N7binyonxvysAkUl5m%2Fimage.png?alt=media&token=dc9ab0c7-2599-43c8-9f35-b48d952aa12a" alt="You've reached the conversation limit for today. Sign in to continue your chat.">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FR5N7binyonxvysAkUl5m_2Fimage_1.png" alt="You've reached the conversation limit for today. Sign in to continue your chat.">
 
 看到这个提示的时候本质上是你账户的问题，无论你怎么找无忧行沟通技术细节，更换更多服务器节点或者按照上述方法换国家和地区**都没用**了。
 
@@ -152,19 +152,19 @@ bing.com
 
 1、在Edge浏览器地址栏内输入 `edge://extensions/`，打开扩展管理界面，找到无忧行点击详细信息
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FzX0shn8SkzNDitbuWyLk%2Fimage.png?alt=media&token=5cdd6afa-9dc7-4384-8f30-afac4de4e571" alt="扩展管理界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FzX0shn8SkzNDitbuWyLk_2Fimage_2.png" alt="扩展管理界面">
 
 2、选中在InPrivate中允许
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FNzcdN0zHPrnfQfxvzine%2Fimage.png?alt=media&token=06f13da7-a657-4a27-85dd-15367450d5ce" alt="InPrivate设置">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNzcdN0zHPrnfQfxvzine_2Fimage_3.png" alt="InPrivate设置">
 
 3、点击Edge浏览器右上角三个点，在下拉菜单中选中新建InPrivate窗口
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FHV0QVHMxq4rRJPSEghvH%2Fimage.png?alt=media&token=2a63de09-0442-449d-ab31-21f02860f760" alt="新建InPrivate窗口">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FHV0QVHMxq4rRJPSEghvH_2Fimage_1.png" alt="新建InPrivate窗口">
 
 4、大功告成
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FmSgH7un2lH6oQ2I02okf%2Fimage.png?alt=media&token=6a44deb5-e354-4e1a-90ae-f080f663ac26" alt="隐私模式成功">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmSgH7un2lH6oQ2I02okf_2Fimage_2.png" alt="隐私模式成功">
 
 ### 问题8：建议关闭防火墙
 
@@ -178,7 +178,7 @@ Windows：若要打开或关闭 Microsoft Defender 防火墙，请执行以下�
 
 Mac：若要打开或关闭 Mac 防火墙，请执行以下操作：
 
-1. 请选取苹果菜单 ![苹果菜单](https://help.apple.com/assets/63BCA927AAE78C58DD7FBE35/63BCA92EAAE78C58DD7FBE76/zh_CN/2f77cc85238452e25cb517130188bf99.png) >"系统设置"，在边栏中点按"网络" ![网络](https://help.apple.com/assets/63BCA927AAE78C58DD7FBE35/63BCA92EAAE78C58DD7FBE76/zh_CN/8cfb53953fdf6e7e49ac94510557df95.png)，然后点按右侧的"防火墙"。
+1. 请选取苹果菜单 ![苹果菜单](/Jego/images/image_2f77cc85238452e25cb517130188bf99_2.png) >"系统设置"，在边栏中点按"网络" ![网络](/Jego/images/image_8cfb53953fdf6e7e49ac94510557df95_3.png)，然后点按右侧的"防火墙"。
 2. 请将设置为关闭状态。
 
 ### 问题9：如何通过Edge无痕模式测试New Bing是否解锁成功？
@@ -194,7 +194,7 @@ Mac：若要打开或关闭 Mac 防火墙，请执行以下操作：
 7. 如果未登录的时候有，登录后没有，请在无痕模式下开启无忧行重新注册个新的new bing账户。
 8. 不要频繁更换代理软件或者同一个账户一会儿访问国内的必应，一会儿访问海外的new bing
 
-<video src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F5kaw1En36b4S8wPLm3ok%2F20230927-110903.mp4?alt=media&token=b8126d19-2c50-45e8-8224-3da43c198469" controls></video>
+<video src="/Jego/videos/video_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5kaw1En36b4S8wPLm3ok_2F20230927-110903_2.mp4" controls></video>
 
 无痕模式测试演示视频
 

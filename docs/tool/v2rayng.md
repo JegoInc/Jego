@@ -13,7 +13,7 @@ v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能
 请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
 :::
 
-## <img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2Fr7lhxwWpINBib1IY4DuB%2Fimage.png?alt=media&token=50d616af-40d2-4358-bc80-26cf8068572c" width="26" height="26" alt="v2rayNG图标"> 获取 v2rayNG
+## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fr7lhxwWpINBib1IY4DuB_2Fimage_2.png" width="26" height="26" alt="v2rayNG图标"> 获取 v2rayNG
 
 #### 下载链接：
 
@@ -29,25 +29,25 @@ v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能
 
 安装完后，打开软件进入主界面，即配置文件界面，如下图所示。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F7FunPj6PcfmBUFTM9uKV%2Fimage.png?alt=media&token=6eb9eb3d-b4ec-4900-ae12-d01d0deb02d6" alt="v2rayNG主界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7FunPj6PcfmBUFTM9uKV_2Fimage_3.png" alt="v2rayNG主界面">
 
 ## **添加订阅：**
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**v2rayNG**订阅地址并点击**复制**。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FvcuzdBLdVvZgq9XT0TZy%2Fimage.png?alt=media&token=d955d685-f56f-490f-bf7e-6cab61c95e59" alt="无忧行控制面板">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FvcuzdBLdVvZgq9XT0TZy_2Fimage_1.png" alt="无忧行控制面板">
 
 如下图所示点击软件主界面左上角`三道杠`按钮，在弹出窗口进入系统设置界面，然后点击订阅设置，如下图所示。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FrnZkA6aiORpPAnFztckr%2Fimage.png?alt=media&token=97d22ae0-b159-4196-9a1e-8175dd10b659" alt="系统设置">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrnZkA6aiORpPAnFztckr_2Fimage_2.png" alt="系统设置">
 
 在弹出的订阅设置主界面，点击右上角的 ➕ 号按钮即可出现添加订阅界面，在备注处输入自己能区分这个订阅节点的内容，然后在地址(url)处输入订阅地址，最后点击右上角的 ✔ 按钮，即可添加订阅地址，如下图所示。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FTL4yXRVv0pQOONIhX9LK%2Fimage.png?alt=media&token=f8b3f038-8fd0-450f-a0cd-519b69ab6753" alt="添加订阅">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FTL4yXRVv0pQOONIhX9LK_2Fimage_3.png" alt="添加订阅">
 
 最后也是最重要的一步，返回到软件主界面，然后点击最右上角的`三束点`按钮，在弹出界面选择更新订阅，如下图所示。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FjOfYRUemiPtnmLfQCTEy%2Fimage.png?alt=media&token=dfd21d5a-ee0d-4247-8631-a2d0704cb4b2" alt="更新订阅">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjOfYRUemiPtnmLfQCTEy_2Fimage_1.png" alt="更新订阅">
 
 至此，通过订阅地址方式添加代理服务器就成功了。
 

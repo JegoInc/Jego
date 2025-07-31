@@ -35,7 +35,7 @@ description: 在你使用无忧行之前，您必须要了解的无忧行的安�
 
 ➌ 点击`Load unpacked`，选中刚才准备好的无忧行的`.CRX`文件即可安装。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FfcXOYhXbZ9Tr2bWUoI5p%2Fimage.png?alt=media&token=18cd2ca1-5208-47e3-82b5-81ce21cc1c30" alt="Edge插件管理界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfcXOYhXbZ9Tr2bWUoI5p_2Fimage_3.png" alt="Edge插件管理界面">
 
 ## Google Chrome如何安装无忧行
 
@@ -58,16 +58,16 @@ description: 在你使用无忧行之前，您必须要了解的无忧行的安�
 
 ➌ 点击`Load unpacked`，选中刚才准备好的无忧行的`.CRX`文件即可安装。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F8gEriEnVmF77fYUY2XxI%2Fimage.png?alt=media&token=ab2d0929-d037-4af5-ab40-0adc58a1a446" alt="Chrome插件管理界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F8gEriEnVmF77fYUY2XxI_2Fimage_1.png" alt="Chrome插件管理界面">
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FqJVM1Fphg1LsgyqucvDn%2F20250326-115951.gif?alt=media&token=d5b4c7ad-7c22-4886-81ef-b89c77f3fa04" alt="Chrome安装无忧行录屏演示">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FqJVM1Fphg1LsgyqucvDn_2F20250326-115951_2.gif" alt="Chrome安装无忧行录屏演示">
 
 ## 安装后的初始设置
 
 | Edge浏览器的初始设置 | Chrome浏览器的初始设置 |
 | --- | --- |
 | <ul><li>打开Edge浏览器。</li><li>点击右上角的菜单按钮（三个水平点）。</li><li>点击"扩展"。</li><li>找到"无忧行"扩展，并确保其启用状态。</li><li>确保"无忧行"扩展右侧的眼睛图标为睁眼模式。</li><li>这样，在浏览器的地址栏最右侧，就可以看到"无忧行"的小图标了，方便日常使用。</li></ul> | <ul><li>打开Chrome浏览器。</li><li>点击右上角的菜单按钮（三个垂直点）。</li><li>点击"扩展程序 -> 管理扩展程序"。</li><li>找到"无忧行"扩展，并确保其启用状态。</li><li>确保"无忧行"扩展右侧的图钉图标为蓝色选中模式。</li><li>这样，在浏览器的地址栏最右侧，就可以看到"无忧行"的小图标了，方便日常使用。</li></ul> |
-| <img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2Fg4tbKt6AKXlmq4DaA3H6%2Fimage.png?alt=media&token=c140e0c5-cd4a-42af-affe-423bd5f632ab" alt="Edge设置界面"> | <img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FGzs5DCiSzki2ZpCWTW3Z%2Fimage.png?alt=media&token=0aa732c4-970e-4b4a-9dfb-1f3eff9b9639" alt="Chrome设置界面"> |
+| <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fg4tbKt6AKXlmq4DaA3H6_2Fimage_3.png" alt="Edge设置界面"> | <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FGzs5DCiSzki2ZpCWTW3Z_2Fimage_1.png" alt="Chrome设置界面"> |
 
 ## 其他浏览器如何安装无忧行
 
@@ -81,15 +81,15 @@ description: 在你使用无忧行之前，您必须要了解的无忧行的安�
 
 2、打开QQ浏览器，点击右上角"**≡**"，再点击**应用中心**。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FNu4OazcBbbAFfWuQgezF%2Fimage.png?alt=media&token=2557d387-5948-467b-90ab-fe5a01e6f718" alt="QQ浏览器应用中心">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNu4OazcBbbAFfWuQgezF_2Fimage_2.png" alt="QQ浏览器应用中心">
 
 3、再点击管理我的应用，并在右上角勾选**开发者模式**。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F89zJpPggJ1YdQjAXLRra%2Fimage.png?alt=media&token=d506b282-e236-4308-8a20-0d727804356e" alt="QQ浏览器开发者模式">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F89zJpPggJ1YdQjAXLRra_2Fimage_3.png" alt="QQ浏览器开发者模式">
 
 4、将第一步下载到的crx文件拖放到浏览器的扩展程序页面上，即可安装完成。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FDBP0gASUKK3dAUPq95HO%2F20250310-162502.gif?alt=media&token=efce0310-8e1e-42a4-b8df-42811b33c2e8" alt="QQ浏览器13.6版本 安装录屏">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FDBP0gASUKK3dAUPq95HO_2F20250310-162502_1.gif" alt="QQ浏览器13.6版本 安装录屏">
 
 ### 360浏览器
 
@@ -97,19 +97,19 @@ description: 在你使用无忧行之前，您必须要了解的无忧行的安�
 
 2、打开360浏览器，点击右上角四个彩色方块的**图标**，再点击**管理**。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FgcDXVCfrl7t3dVK5jghY%2Fimage.png?alt=media&token=5c7bcd8f-ed62-4514-a519-dd381489588c" alt="360浏览器管理界面">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FgcDXVCfrl7t3dVK5jghY_2Fimage_2.png" alt="360浏览器管理界面">
 
 3、然后再次点击新页面右上角的**高级管理**
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FBe1trubV92DFGWVGoa5L%2Fimage.png?alt=media&token=19e3477a-e751-42b4-8cbc-fec27af95398" alt="360浏览器高级管理">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FBe1trubV92DFGWVGoa5L_2Fimage_3.png" alt="360浏览器高级管理">
 
 4、在页面右上角，勾选打开**开发者模式**
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FDWVaPCNn9QB2NmtZXyng%2Fimage.png?alt=media&token=52792be2-1c0b-454d-93d4-07edfe02c3df" alt="360浏览器开发者模式">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FDWVaPCNn9QB2NmtZXyng_2Fimage_1.png" alt="360浏览器开发者模式">
 
 5、将第一步下载到的crx文件拖放到浏览器的扩展程序页面上，即可安装完成。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F4oRzIdJCgphxrFgU4Cls%2F20250310-163456.gif?alt=media&token=fd674a6f-1088-4e7c-a1fc-d79341e13d3b" alt="360浏览器15版本 安装录屏">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4oRzIdJCgphxrFgU4Cls_2F20250310-163456_2.gif" alt="360浏览器15版本 安装录屏">
 
 ## 如何在电脑或手机上安装无忧行？
 

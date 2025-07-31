@@ -5,7 +5,7 @@ description: Shadowrocket 是一个功能齐全的 iOS 代理工具客戶端，�
 
 # Shadowrocket
 
-## <img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F7AV6HDd5wUpQFm7nVO7V%2Fshadowrocket.png?alt=media&token=58bba0e8-de97-475b-a246-eb714651dfb4" width="26" height="26" alt="Shadowrocket图标"> 获取Shadowrocket
+## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7AV6HDd5wUpQFm7nVO7V_2Fshadowrocket_1.png" width="26" height="26" alt="Shadowrocket图标"> 获取Shadowrocket
 
 目前 Shadowrocket 已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。
 
@@ -26,11 +26,11 @@ description: Shadowrocket 是一个功能齐全的 iOS 代理工具客戶端，�
 
 在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点**  ，找到Shadowrocket订阅地址并点击**复制**。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FR0ByTjT0xp3A9tvDTjft%2Fimage.png?alt=media&token=cae00644-add0-4ede-bee8-82e7a9c2d32e" alt="无忧行控制面板">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FR0ByTjT0xp3A9tvDTjft_2Fimage_2.png" alt="无忧行控制面板">
 
 打开 **Shadowrocket**，点击右上角**＋**，类型选择 "**Subscribe** (订阅)"。 粘贴订阅链接至 URL 后，点击右上角 "**完成**"，Shadowrocket 将从订阅链接获取节点。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FOBAhmS7As9DK6SaRhEkD%2Fimage.png?alt=media&token=62b5f550-bc66-4184-9d2a-3483994133f2" alt="添加订阅">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FOBAhmS7As9DK6SaRhEkD_2Fimage_3.png" alt="添加订阅">
 
 ## 选择节点
 
@@ -40,13 +40,13 @@ description: Shadowrocket 是一个功能齐全的 iOS 代理工具客戶端，�
 如果您感觉节点速度慢，请在下方更换节点即可。全局路由中，配置模式会自动代理大部分国外网站，如果您访问的网站仍然缓慢，请切换至代理模式。
 :::
 
-## <img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F4lRzV037szhl6p8vID4X%2Fimage.png?alt=media&token=86bb2c63-5834-48fe-be67-4493952bdaef" alt="连接界面">
+## <img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4lRzV037szhl6p8vID4X_2Fimage_1.png" alt="连接界面">
 
 ## **自动更新**
 
 打开 Shadowrocket，点击底部导航栏的「**设置**」进入设置页面，点击下面的「**订阅**」，开启「**打开时更新**」和「**自动后台更新**」， 软件将会在后台自动更细订阅，免去您的麻烦。
 
-<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FnkMkolFKD3sT6aZExoM3%2Fimage.png?alt=media&token=461f4b56-0dde-448d-9573-3d4597400675" alt="自动更新">
+<img src="/Jego/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FnkMkolFKD3sT6aZExoM3_2Fimage_2.png" alt="自动更新">
 
 ## 选择代理模式
 
