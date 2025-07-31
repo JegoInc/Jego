@@ -8,12 +8,6 @@ export default defineConfig({
   // 设置基础路径，用于 GitHub Pages 部署
   base: '/Jego/',
   
-  // 暂时禁用死链接检查，避免构建失败
-  ignoreDeadLinks: true,
-  
-  // 确保滚动正常工作
-  appearance: true,
-  
   // 主题配置
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

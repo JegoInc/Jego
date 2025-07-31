@@ -18,15 +18,15 @@ sing-box 是一款全新的内核，几乎支持目前所有协议，还拥有�
 
 ### 苹果全家桶
 
-macOS iOS iPadOS tvOS的用户请移步： [sing-box-for-apple-platforms](sing-box-for-apple-platforms)
+macOS iOS iPadOS tvOS的用户请移步： [sing-box for Apple](/tool/sing-boxforapple)
 
 ### Andorid设备
 
-安卓的用户请移步： [sing-box-for-android](sing-box-for-android)
+安卓的用户请移步： [sing-box for Android](/tool/sing-boxforandroid)
 
 ### Windows
 
-Windows的用户请移步： [gui.for.singbox](gui.for.singbox)
+Windows的用户请移步： [GUI.for.SingBox](/tool/guiforsing-box)
 
 ### Linux
 

@@ -11,7 +11,7 @@ sing-box for Apple platforms在Apple Store叫sing-box VT，是一款全新的内
 
 ### 苹果全家桶系列
 
-macOS iOS iPadOS tvOS 可通过Apple Store安装，唯一门槛是需要[非中国大陆地区的Apple ID](mei-qu-apple-id-zhu-ce-jiao-cheng)
+macOS iOS iPadOS tvOS 可通过Apple Store安装，唯一门槛是需要非中国大陆地区的Apple ID
 
 * [App Store](https://apps.apple.com/app/sing-box-vt/id6673731168)
 

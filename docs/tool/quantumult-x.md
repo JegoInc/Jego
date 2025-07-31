@@ -10,7 +10,7 @@ description: Quantumult X是iOS上一款功能强大的网络工具。
 目前 Quantumult X已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。
 
 ::: info 注册教程
-如果你想注册自己的非大陆地区的 App Store 账号，请可以参考如下教程： [gang-qu-apple-id-zhu-ce-liu-cheng](../ding-yue-jie-dian/gang-qu-apple-id-zhu-ce-liu-cheng "mention")
+如果你想注册自己的非大陆地区的 App Store 账号，请参考相关教程或购买现成的账号。
 :::
 
 ::: info 购买渠道
