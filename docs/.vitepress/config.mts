@@ -120,7 +120,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2020-Present Jego'
+      copyright: 'Copyright © 2025 JegoVPN'
     }
   }
 })
