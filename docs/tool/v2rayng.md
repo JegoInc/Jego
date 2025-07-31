@@ -1,0 +1,100 @@
+---
+title: v2rayNG - 工具软件
+description: v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能强大且支持多种代理协议，如VMess、VLESS、Shadowsocks、Socks、Trojan等代理协议。
+---
+
+# v2rayNG
+
+v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能强大且支持多种代理协议，如VMess、VLESS、Shadowsocks、Socks、Trojan等代理协议。
+
+::: danger 不推荐使用
+由于v2rayNG不支持无忧行最新的协议，所以无忧行不推荐大家继续使用。by 20250714
+
+请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
+:::
+
+## <img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2Fr7lhxwWpINBib1IY4DuB%2Fimage.png?alt=media&token=50d616af-40d2-4358-bc80-26cf8068572c" width="26" height="26" alt="v2rayNG图标"> 获取 v2rayNG
+
+#### 下载链接：
+
+[https://github.com/2dust/v2rayNG/releases ](https://github.com/2dust/v2rayNG/releases)
+
+[https://play.google.com/store/apps/details?id=com.v2ray.ang ](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+
+新手使用建议下载稳定版本，即版本号后标记为 `Latest` 的版本。
+
+## 安装教程
+
+安装教程很简单，如果是通过应用商店下载的，那么直接根据提示下载并安装即可，如果是通过官网下载或其他第三方下载的，下载完后获得文件为 `v2rayNG_x.x.x.apk` 文件，其中后缀 `.apk` 为安卓系统的安装包，`x.x.x` 代表版本号，然后点击安装即可，十分简单。
+
+安装完后，打开软件进入主界面，即配置文件界面，如下图所示。
+
+<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2F7FunPj6PcfmBUFTM9uKV%2Fimage.png?alt=media&token=6eb9eb3d-b4ec-4900-ae12-d01d0deb02d6" alt="v2rayNG主界面">
+
+## **添加订阅：**
+
+在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**v2rayNG**订阅地址并点击**复制**。
+
+<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FvcuzdBLdVvZgq9XT0TZy%2Fimage.png?alt=media&token=d955d685-f56f-490f-bf7e-6cab61c95e59" alt="无忧行控制面板">
+
+如下图所示点击软件主界面左上角`三道杠`按钮，在弹出窗口进入系统设置界面，然后点击订阅设置，如下图所示。
+
+<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FrnZkA6aiORpPAnFztckr%2Fimage.png?alt=media&token=97d22ae0-b159-4196-9a1e-8175dd10b659" alt="系统设置">
+
+在弹出的订阅设置主界面，点击右上角的 ➕ 号按钮即可出现添加订阅界面，在备注处输入自己能区分这个订阅节点的内容，然后在地址(url)处输入订阅地址，最后点击右上角的 ✔ 按钮，即可添加订阅地址，如下图所示。
+
+<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FTL4yXRVv0pQOONIhX9LK%2Fimage.png?alt=media&token=f8b3f038-8fd0-450f-a0cd-519b69ab6753" alt="添加订阅">
+
+最后也是最重要的一步，返回到软件主界面，然后点击最右上角的`三束点`按钮，在弹出界面选择更新订阅，如下图所示。
+
+<img src="https://1663121531-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtaiByLw8cj0IZKJTlaiM%2Fuploads%2FjOfYRUemiPtnmLfQCTEy%2Fimage.png?alt=media&token=dfd21d5a-ee0d-4247-8631-a2d0704cb4b2" alt="更新订阅">
+
+至此，通过订阅地址方式添加代理服务器就成功了。
+
+## 使用教程
+
+### 代理服务器
+
+在软件的主界面中可以看到自己通过手动添加或者订阅设置添加的所有代理服务器列表，其中每一条代理服务器最右边的竖条代表选定服务器的状态，其中`灰色`代表未选中，`绿色`代表选中。
+
+每一条代理服务器的操作都可以在这里进行，右边三个图标分别代表分享节点服务器、编辑节点服务器、删除节服务器。
+
+**启动代理服务器**
+
+点击软件主界面右小角的 V 字图标启动代理，首次配置会提示是否创建代理，即软件界面中的网络链接请求，点击确定启动。
+
+**切换代理服务器**
+
+在有多条代理服务器的时候，只需要直接点击想要链接的那条代理服务器，即可切换代理服务器，无论是未链接状态还是已链接状态，都可以进行切换。
+
+### 路由设置
+
+路由设置的原理是将入站数据按需求由不同的出站链接发出，从而达到按需代理的目的。这一功能的常见用法的分流国内外流量，可以通过内部机制判断不同地区的流量，然后将他们发送到不同的出站代理，在v2rayNG中，有三种路由配置可以设置，分别是域名策略、自定义规则、预定义规则。
+
+**域名策略**
+
+在域名策略中，系统一共内置了三种域名策略可以选择。
+
+* Asls
+* IPIfNonMatch
+* IPOnDemand
+
+根据不同的需求选择合适的域名策略，一般默认即可。
+
+**自定义规则**
+
+在自定义规则中，可通过自定义来设置需要代理的网址或IP、直连的网址或IP、阻止的网址或IP，从而达到个性化的代理需求。
+
+**预定义规则**
+
+新手推荐使用这个，在预定义规则中，系统已经内置好了不同的路由规则。
+
+* 全局代理
+* 绕过局域网地址而后代理
+* 绕过大陆地址而后代理
+* 绕过局域网及大陆地址而后代理
+* 全局直连
+
+根据不同的需求选择合适的预定义规则，一般选择`绕过局域网及大陆地址而后代理`。
+
+
