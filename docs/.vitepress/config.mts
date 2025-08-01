@@ -30,12 +30,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon48.png',
     search: {
-      provider: 'algolia',
-      options: {
-        appId: '4ICZGB6WSW',
-        apiKey: '1c259584979876313f9ecdb24906b90f',
-        indexName: 'help_jegovpn_com_4iczgb6wsw_pages'
-      }
+      provider: 'local'
+ //     provider: 'algolia',
+ //     options: {
+ //       appId: '4ICZGB6WSW',
+ //       apiKey: '1c259584979876313f9ecdb24906b90f',
+ //       indexName: 'help_jegovpn_com_4iczgb6wsw_pages'
+ //     }
     },
     nav: [
       { text: '首页', link: '/' },
