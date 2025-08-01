@@ -105,6 +105,7 @@ export default defineConfig({
           { text: 'FlClash', link: '/tool/flclash' },
           { text: 'sing-box for Android', link: '/tool/sing-boxforandroid' },
           { text: 'sing-box for Apple', link: '/tool/sing-boxforapple' },
+          { text: 'GUI.for.SingBox', link: '/tool/guiforsing-box' },
           { text: 'Shadowrocket', link: '/tool/shadowrocket' },
           { text: 'Surfboard', link: '/tool/surfboard' },
           { text: 'v2rayN', link: '/tool/v2rayn' },
@@ -113,7 +114,6 @@ export default defineConfig({
           { text: 'Surge', link: '/tool/surge' },
           { text: 'Quantumult X', link: '/tool/quantumult-x' },
           { text: 'Loon', link: '/tool/loon' },
-          { text: 'GUI.for.SingBox', link: '/tool/guiforsing-box' },
           { text: 'ClashBox', link: '/tool/clashbox' },
           { text: 'Clash for Windows', link: '/tool/clash-for-windows' },
           { text: 'Clash for Android', link: '/tool/clash-for-android' }

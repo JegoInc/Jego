@@ -1,94 +1,51 @@
 ---
 title: GUI.for.SingBox - 工具软件
-description: MetaCubeX基于Clash核心推出的全新的Mihomo内核，团队持续地在开源社区维护和更新，生态链里已经推出了包含Windows、Andriod、macOS和Linux的客户端。
+description: GUI.for.SingBox是开源社区基于sing-box内核在Windows系统里做的图形客户端。
 ---
 
 # GUI.for.SingBox
 
-MetaCubeX基于Clash核心推出的全新的Mihomo内核，团队持续地在开源社区维护和更新，生态链里已经推出了包含Windows、Andriod、macOS和Linux的客户端。
-
-Mihomo原名Clash Meta，是基于广受欢迎的开源网络代理工具Clash开发的增强网络代理工具。
-
-Mihomo不仅继承了Clash的核心功能，还增加了一些独特的特性，如支持更多的出站传输协议和复杂的规则控制等。
-
-### Mihomo支持的协议
-
-Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持的翻墙协议包括：HTTP、SOCKS、Shadowsocks、V2Ray(VMess、VLESS)、Trojan、Hysteria(Hysteria、Hysteria2)、TUIC、WireGuard。
-
-### Mihomo功能特点
-
-* **代理模块**：支持多种协议，如VLESS XTLS、Trojan XTLS等，实现了健康检查(如urltest/fallback)和TCP连接的并发处理。
-* **规则模块**：提供详细的流量分流规则，支持SRC-PORT和DST-PORT的多条件控制，支持TCP/UDP分别设置。
-* **DNS模块**：增强了域名嗅探器功能，支持使用代理解析IP和DNS over QUIC等技术。
-* **TUN模块**：支持在macOS、Linux和Windows平台上运行，内置了必要的驱动程序​​。
-
----
-
-## 以Mihomo为内核的客户端下载
-
-::: info iOS产品说明
-Mihomo生态里目前还没有好用的iOS产品
+::: info 欢迎
+欢迎阅读2025年GUI.for.SingBox使用教程
 :::
 
-### 推荐使用下列软件
+GUI.for.SingBox是开源社区基于sing-box内核在Windows系统里做的图形客户端。它提供了直观的图形界面来管理sing-box代理配置，支持订阅导入、节点选择等功能。
 
-[FlClash](flclash) 基于Mihomo的多平台代理客户端，简单易用，开源免费无广告，支持Windows, macOS, Android, Linux。
+> 小声逼逼一下：GUI.for.SingBox 用起来的体验并不丝滑，非sing-box信徒建议使用[FlClash](flclash)。
 
----
+## 获取 GUI.for.SingBox
 
-### 下列软件能用但不推荐：
+可以通过Github下载并进行安装
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows图标"> Windows
+* [GitHub Releases](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)
 
-[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
+打开Github Release页面后，会看到很多安装包，根据你的Windows系统版本下载对应的安装包即可。
 
-[Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
+## GUI.for.SingBox Windows版本使用教程
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
+### 基础设置
 
-[Clash N](https://github.com/2dust/clashN) 是v2rayN的作者开发的基于Mihomo核心的翻墙客户端，同样是简单易用。
+下载后先点开 `Settings - Kernel` 然后看sing-box标题下面的 `Local` 有没有内核版本，如下方左侧图所示就是没有，需要点击右侧蓝色的按钮`Update:版本` 进行安装。ps.以后有内核有新版本也是点这里更新。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS图标"> macOS
+![刚下载](/images/guiforsingbox_no_kernel.png)
 
-[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
+![有内核才能使用](/images/guiforsingbox_with_kernel.png)
 
-[Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
+如上方右侧图片所示，sing-box下方Local有版本号GUI.for.SingBox才处于可用状态。
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
+### 添加订阅和启动
 
-[ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) 旨在提供一个简单轻量化的代理客户端。
+打开GUI.for.SingBox客户端，进入`Overview -> QuickStart`
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux图标"> Linux
+1. Remote URL黏贴从无忧行复制的`sing-box的订阅URL`
+2. 直接点击`Save`
+3. 默认会创建一个`ID_`开头的配置文件，直接点击`Click to Start`
 
-[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
+![快速开始步骤1](/images/guiforsingbox_quickstart1.png)
 
-[Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
+![快速开始步骤2](/images/guiforsingbox_quickstart2.png)
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
+* 启动后应该就能用了，其他一些使用习惯上的问题需要慢慢学习。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android图标"> Android
-
-[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) 是根据Clash for Android修改的基于Mihomo核心的版本，界面简单易用。
-
-### mihomo (Clash Meta) 懒人配置
-
-[https://gist.githubusercontent.com/proother/4d07f66bded8c9e8220837a3d3755837/raw/5b21789220a6f7615a5f87a322ecc1e8797d628e/config.yaml](https://gist.githubusercontent.com/proother/4d07f66bded8c9e8220837a3d3755837/raw/5b21789220a6f7615a5f87a322ecc1e8797d628e/config.yaml)
-
-## Mihomo订阅地址
-
-#### **添加订阅：**
-
-在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点** ，找到**Mihomo** 订阅地址并点击**复制**。
-
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIiJUB1Wa62NjydQ7rhLb_2Fimage_1.png" alt="Mihomo订阅地址">
-
-## 电脑上：Mihomo Party 翻墙视频教程
-
-<video src="https://www.youtube.com/watch?v=jmnSpxgcbAI" controls></video>
-
-欢迎收看无忧行团队被迫营业录制的视频教程。
-
-## 手机上：Clash Meta for Android 和 FlClash 翻墙视频教程
-
-<video src="https://www.youtube.com/watch?v=HtZWdMHui6I" controls></video>
+另外建议去设置里打开以管理员身份运行：对于非 Windows Administrators 用户组成员，建议勾选此项，以避免 TUN 模式启动失败。
 
