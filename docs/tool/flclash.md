@@ -5,6 +5,8 @@ description: 基于Mihomo（原ClashMeta）的多平台代理客户端，简单�
 
 # FlClash
 
+基于Mihomo（原ClashMeta）的多平台代理客户端，简单易用，开源无广告。
+
 ::: info 欢迎
 欢迎阅读2025年FlClash使用教程
 :::

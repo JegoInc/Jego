@@ -5,6 +5,8 @@ description: OneClick是一款免费的支持主流加密协议的上网工具�
 
 # OneClick
 
+OneClick是一款免费的支持主流加密协议的上网工具。
+
 ::: danger 不推荐使用
 该软件已经好几年不更新了，无忧行不推荐大家继续使用。
 

@@ -5,6 +5,8 @@ description: 本文是Clash for Windows客户端的教程，Clash for Windows已
 
 # Clash for Windows
 
+本文是Clash for Windows客户端的教程，Clash for Windows已于2023年11月2日下架，但当时的最后一个版本还能用。
+
 ::: danger 不推荐使用
 该软件已经好几年不更新了，无忧行不推荐大家继续使用。
 

@@ -5,6 +5,8 @@ description: sing-box for Android 简称 SFA，SFA是sing-box官方推出的图�
 
 # sing-box for Android
 
+sing-box for Android 简称 SFA，SFA是sing-box官方推出的图形界面客户端，开源免费无广告。
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FX6LBfzRlMdWyQVvPC9eg_2Fimage_1.png" width="26" height="26" alt="sing-box图标"> 获取sing-box for Android
 
 有Google Play的安卓用户可以通过Play进行安装sing-box for Android

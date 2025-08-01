@@ -5,6 +5,8 @@ description: Surfboard 是一款运行在 Android 系统上的网络代理工具
 
 # Surfboard
 
+Surfboard 是一款运行在 Android 系统上的网络代理工具。
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIywLDSGlP6GDDb2QtWh5_2Fsurfboard_3.png" width="26" height="26" alt="Surfboard图标"> 获取Surfboard
 
 1. Surfboard官方电报群：[https://t.me/surfboardnews](https://t.me/surfboardnews)

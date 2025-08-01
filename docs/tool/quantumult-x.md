@@ -5,6 +5,8 @@ description: Quantumult X是iOS上一款功能强大的网络工具。
 
 # Quantumult X
 
+Quantumult X是iOS上一款功能强大的网络工具。
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuap2kKrwZ32jilQhXxlt_2Fquantumultx_3.png" width="26" height="26" alt="Quantumult X图标"> 获取Quantumult  X
 
 目前 Quantumult X已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。

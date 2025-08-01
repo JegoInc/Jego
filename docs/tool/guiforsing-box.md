@@ -5,11 +5,11 @@ description: GUI.for.SingBox是开源社区基于sing-box内核在Windows系统�
 
 # GUI.for.SingBox
 
+GUI.for.SingBox是开源社区基于sing-box内核在Windows系统里做的图形客户端。它提供了直观的图形界面来管理sing-box代理配置，支持订阅导入、节点选择等功能。
+
 ::: info 欢迎
 欢迎阅读2025年GUI.for.SingBox使用教程
 :::
-
-GUI.for.SingBox是开源社区基于sing-box内核在Windows系统里做的图形客户端。它提供了直观的图形界面来管理sing-box代理配置，支持订阅导入、节点选择等功能。
 
 > 小声逼逼一下：GUI.for.SingBox 用起来的体验并不丝滑，非sing-box信徒建议使用[FlClash](flclash)。
 

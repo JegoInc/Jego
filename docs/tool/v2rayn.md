@@ -5,6 +5,8 @@ description: v2rayN 是PC 平台上一个对新手比较友好的v2ray Windows �
 
 # v2rayN
 
+v2rayN 是PC 平台上一个对新手比较友好的v2ray Windows 客户端。
+
 ::: danger 不推荐使用
 由于v2rayN不支持无忧行最新的协议，所以无忧行不推荐大家继续使用。by 20250714
 

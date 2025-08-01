@@ -5,6 +5,8 @@ description: A Graphical user interface of clash for Android
 
 # Clash for Android
 
+A Graphical user interface of clash for Android
+
 ::: danger 不推荐使用
 该软件已经好几年不更新了，无忧行不推荐大家继续使用。
 

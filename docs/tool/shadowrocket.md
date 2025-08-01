@@ -5,6 +5,8 @@ description: Shadowrocket 是一个功能齐全的 iOS 代理工具客戶端，�
 
 # Shadowrocket
 
+Shadowrocket 是一个功能齐全的 iOS 代理工具客戶端，支持大多数常见的连接协议。
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7AV6HDd5wUpQFm7nVO7V_2Fshadowrocket_1.png" width="26" height="26" alt="Shadowrocket图标"> 获取Shadowrocket
 
 目前 Shadowrocket 已经被政府要求从中国大陆区的 App Store 移除。请切换至非中国大陆地区（如美国、香港、日本地区），再购买下载。

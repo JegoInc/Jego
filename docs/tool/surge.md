@@ -1,11 +1,11 @@
 ---
 title: Surge - 工具软件
-description: Surge是一款功能强大的iOS网络代理工具，以其稳定的性能、丰富的功能和优秀的用户体验而著称。
+description: Surge是一款Apple平台里功能强大的网络代理工具，以其稳定的性能、丰富的功能和优秀的用户体验而著称。
 ---
 
 # Surge
 
-Surge是一款功能强大的iOS网络代理工具，以其稳定的性能、丰富的功能和优秀的用户体验而著称。
+Surge是一款Apple平台里功能强大的网络代理工具，以其稳定的性能、丰富的功能和优秀的用户体验而著称。
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FoBLta0TNRbF6ARUAOFxW_2Fsurge_1.png" width="26" height="26" alt="Surge图标"> 获取Surge
 
