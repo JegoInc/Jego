@@ -84,11 +84,11 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 ## 电脑上：Mihomo Party 翻墙视频教程
 
-<video src="https://www.youtube.com/watch?v=jmnSpxgcbAI" controls></video>
+<YouTube videoId="jmnSpxgcbAI" title="Mihomo Party 翻墙视频教程" />
 
 欢迎收看无忧行团队被迫营业录制的视频教程。
 
 ## 手机上：Clash Meta for Android 和 FlClash 翻墙视频教程
 
-<video src="https://www.youtube.com/watch?v=HtZWdMHui6I" controls></video>
+<YouTube videoId="HtZWdMHui6I" title="Clash Meta for Android 和 FlClash 翻墙视频教程" />
 
