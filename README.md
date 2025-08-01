@@ -61,6 +61,6 @@ docs/
 
 欢迎提交Issue和Pull Request来改进文档内容。
 
-## �� 许可证
+## 📄 许可证
 
 MIT License 
