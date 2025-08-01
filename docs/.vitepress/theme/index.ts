@@ -1,8 +1,6 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import YouTube from './components/YouTube.vue'
-import Columns from './components/Columns.vue'
-import Column from './components/Column.vue'
 import './style.css'
 
 export default {
@@ -14,7 +12,5 @@ export default {
   },
   enhanceApp({ app }) {
     app.component('YouTube', YouTube)
-    app.component('Columns', Columns)
-    app.component('Column', Column)
   }
 } 
