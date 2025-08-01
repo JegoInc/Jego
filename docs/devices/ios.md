@@ -23,7 +23,7 @@ Shadowrocket 是一个功能齐全的 iOS/iPadOS 代理工具客戶端，支持�
 
 <img src="/images/image_surge_3.png" width="26" height="26" alt="Surge图标"> [Surge](/tool/surge)
 
-Surge是一个 Web 开发和代理实用程序。
+Surge是一款Apple平台里功能强大的网络代理工具，以其稳定的性能、丰富的功能和优秀的用户体验而著称。
 
 <img src="/images/image_quantumultx_1.png" width="26" height="26" alt="Quantumult X图标"> [Quantumult X](/tool/quantumult-x)
 

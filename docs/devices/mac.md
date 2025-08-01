@@ -23,7 +23,7 @@ FlClash是一款基于Mihomo（原ClashMeta）的多平台代理客户端，简�
 
 <img src="/images/image_surge_3.png" width="26" height="26" alt="Surge图标"> [Surge](/tool/surge)
 
-Surge是一个 Web 开发和代理实用程序。
+Surge是一款Apple平台里功能强大的网络代理工具，以其稳定的性能、丰富的功能和优秀的用户体验而著称。
 
 <img src="/images/image_shadowrocket_2.png" width="26" height="26" alt="Shadowrocket图标"> [Shadowrocket](/tool/shadowrocket)
 
