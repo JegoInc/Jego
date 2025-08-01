@@ -15,7 +15,7 @@ description: 在你支付之前，您必须要了解的无忧行支持的支付�
 
 ## 支付渠道：
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F24s06IHgl9yYTX5MypkX_2Fimage_3.png" width="26" height="26" alt="银联支付图标"> 银联支付
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F24s06IHgl9yYTX5MypkX_2Fimage_3.png" width="104" height="33" alt="银联支付图标"> 银联支付
 
 银联支付结算的货币单位为<span style="color:green;">`SGD 新加坡元 or USD 美元`</span>。
 
@@ -23,7 +23,7 @@ description: 在你支付之前，您必须要了解的无忧行支持的支付�
 
 您可以使用您银行卡里的任意货币进行支付，汇率问题将由中国银联进行自动处理。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6dqhoWXM9ypD6HfwNX3X_2Fimage_1.png" width="26" height="26" alt="支付宝图标"> 支付宝
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6dqhoWXM9ypD6HfwNX3X_2Fimage_1.png" width="104" height="33" alt="支付宝图标"> 支付宝
 
 支付宝结算的货币单位为<span style="color:green;">`SGD 新加坡元 or USD 美元`</span>。
 
@@ -31,7 +31,7 @@ description: 在你支付之前，您必须要了解的无忧行支持的支付�
 
 您可以使用您支付宝里的任意货币进行支付，汇率问题将由支付宝进行自动处理。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FP1bfW4Ha7dtRtCBM1TsO_2Fimage_2.png" width="26" height="26" alt="微信支付图标"> 微信支付
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FP1bfW4Ha7dtRtCBM1TsO_2Fimage_2.png" width="104" height="33" alt="微信支付图标"> 微信支付
 
 微信支付结算的货币单位为<span style="color:green;">`SGD 新加坡元 or USD 美元`</span>。
 
@@ -39,11 +39,11 @@ description: 在你支付之前，您必须要了解的无忧行支持的支付�
 
 您可以使用您微信支付里的任意货币进行支付，汇率问题将由微信支付进行自动处理。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNYpn2vq3mOCdLVmJFJxU_2Fimage_3.png" width="26" height="26" alt="加密货币图标"> 加密货币支付
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNYpn2vq3mOCdLVmJFJxU_2Fimage_3.png" width="104" height="33" alt="加密货币图标"> 加密货币支付
 
 加密货币支付支持USDT, USDC, ETH, BTC等主流币种，但不支持中国大陆地区的IP用户。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5872Aul15csYNh36x2ea_2Fimage_1.png" width="26" height="26" alt="PayPal图标"> PayPal
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F5872Aul15csYNh36x2ea_2Fimage_1.png" width="104" height="33" alt="PayPal图标"> PayPal
 
 PayPal结算的货币单位为<span style="color:green;">`SGD 新加坡元 or USD 美元`</span>。
 
@@ -51,7 +51,7 @@ PayPal作为更便捷安全的购物支付方式，深受全球逾 4亿用户的
 
 汇率问题将由您的银行卡发卡行进行自动处理。
 
-### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6ALLasfYTQHuuqkOWP85_2Fimage_2.png" width="26" height="26" alt="信用卡图标"> 信用卡
+### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6ALLasfYTQHuuqkOWP85_2Fimage_2.png" width="104" height="33" alt="信用卡图标"> 信用卡
 
 信用卡采用Stripe结算，货币单位为<span style="color:green;">`SGD 新加坡元 or USD 美元`</span>。
 
