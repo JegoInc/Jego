@@ -30,26 +30,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon48.png',
     search: {
-      provider: 'local',
+      provider: 'algolia',
       options: {
-        locales: {
-          zh: {
-            translations: {
-              button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
-              },
-              modal: {
-                noResultsText: '无法找到相关结果',
-                resetButtonTitle: '清除查询条件',
-                footer: {
-                  selectText: '选择',
-                  navigateText: '切换'
-                }
-              }
-            }
-          }
-        }
+        appId: '4ICZGB6WSW',
+        apiKey: '1c259584979876313f9ecdb24906b90f',
+        indexName: '无忧行使用指南'
       }
     },
     nav: [
