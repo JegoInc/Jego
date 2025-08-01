@@ -18,11 +18,9 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 ![免费版翻墙](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjlY9kf0MMYiw6POXkNyC_2Fimage_2.png)
 
-点击小窗上的<span style="color:green;">`开启`</span>按钮，即可开启代理模式，有限地突破部分封锁，<span style="color:orange;">仅能访问谷歌、维基百科、New Bing以及ChatGPT</span>；
+点击小窗上的<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">开启</span>按钮，即可开启代理模式，有限地突破部分封锁，<span style="color:orange;">仅能访问谷歌、维基百科、New Bing以及ChatGPT</span>；
 
-点击<span style="color:green;">`关闭`</span>按钮即关闭了代理模式。
-
----
+点击<span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">关闭</span>按钮即关闭了代理模式。
 
 ## 如何在浏览器里实现一键翻墙？
 
@@ -30,11 +28,11 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 ![会员翻墙后可访问任意网址](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfbQg0ayrr74bF0hLZJF3_2Fimage_3.png)
 
-点击小窗上的<span style="color:green;">`全局`</span>按钮，即可开启全局模式进行访问，访问任意网址都将经由代理（包括大陆地区的网站）。
+点击小窗上的<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">全局</span>按钮，即可开启全局模式进行访问，访问任意网址都将经由代理（包括大陆地区的网站）。
 
-点击小窗上的<span style="color:green;">`规则`</span>按钮，即可开启规则模式进行访问，访问任意网址都将先经过规则判断是否直接访问还是经由代理访问，你可以将大陆地区的网址设为直接连接，境外被屏蔽的网站设为经由代理服务器访问，享受自由且高速的冲浪。
+点击小窗上的<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">规则</span>按钮，即可开启规则模式进行访问，访问任意网址都将先经过规则判断是否直接访问还是经由代理访问，你可以将大陆地区的网址设为直接连接，境外被屏蔽的网站设为经由代理服务器访问，享受自由且高速的冲浪。
 
-点击<span style="color:green;">`关闭`</span>按钮关闭了代理模式。
+点击<span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">关闭</span>按钮关闭了代理模式。
 
 ### 日常使用注意事项：
 
@@ -54,4 +52,4 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 ## 如何在电脑或手机上使用无忧行进行翻墙
 
-➡️关于在电脑和手机上实现翻墙的教程，请移步 [如何在电脑或手机上翻墙](/devices/android)了解更多。
+➡️关于在电脑和手机上实现翻墙的教程，请移步 [如何在电脑或手机上翻墙](/devices/pc-mobile)了解更多。
