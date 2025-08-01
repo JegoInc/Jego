@@ -21,7 +21,7 @@ permissions:
 # 但是，不要取消正在进行的运行，因为我们希望允许这些生产部署完成
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   # 构建工作
@@ -32,6 +32,19 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # 如果未启用 lastUpdated，则不需要
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\.(md|ts|js|vue|css|json)$' > /dev/null; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Skip if no relevant changes
+        if: steps.changes.outputs.has_changes == 'false'
+        run: |
+          echo "No relevant changes detected, skipping build"
+          exit 0
       # - uses: pnpm/action-setup@v3 # 如果使用 pnpm，请取消此区域注释
       #   with:
       #     version: 9
