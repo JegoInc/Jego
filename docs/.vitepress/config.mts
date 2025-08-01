@@ -34,7 +34,7 @@ export default defineConfig({
       options: {
         appId: '4ICZGB6WSW',
         apiKey: '1c259584979876313f9ecdb24906b90f',
-        indexName: '无忧行使用指南'
+        indexName: 'help_jegovpn_com_4iczgb6wsw_pages'
       }
     },
     nav: [
