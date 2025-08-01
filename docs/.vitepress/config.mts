@@ -11,6 +11,20 @@ export default defineConfig({
   // 启用简洁URL，移除.html后缀
   cleanUrls: true,
   
+  // 配置favicon和PWA
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/android-chrome-192x192.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '512x512', href: '/android-chrome-512x512.png' }],
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    ['meta', { name: 'theme-color', content: '#ffffff' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
+    ['meta', { name: 'msapplication-config', content: '/browserconfig.xml' }]
+  ],
+  
   // 主题配置
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -41,8 +55,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '浏览器翻墙教程', link: '/guide/installation' },
-      { text: '升级会员', link: '/membership/benefits' },
       { text: '电脑和手机翻墙教程', link: '/devices/pc-mobile' },
+      { text: '升级会员', link: '/membership/benefits' },
       { text: '使用准则', link: '/abuse/fair-use' }
     ],
 
