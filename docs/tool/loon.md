@@ -8,7 +8,7 @@ description: Loon是一个集网络代理、网络调试、网络改写等一系
 ::: danger 不推荐使用
 由于Loon不支持无忧行最新的协议，所以无忧行不推荐大家继续使用。by 20250714
 
-请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
+请使用[无忧行推荐的客户端](/devices/pc-mobile#_1、关于应该使用什么客户端)
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrQykYPazvOUVLyWMmu7C_2Floon_2.png" width="26" height="26" alt="Loon图标"> 获取Loon

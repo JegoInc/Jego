@@ -10,7 +10,7 @@ description: 本文是Clash for Windows客户端的教程，Clash for Windows已
 ::: danger 不推荐使用
 该软件已经好几年不更新了，无忧行不推荐大家继续使用。
 
-请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
+请使用[无忧行推荐的客户端](/devices/pc-mobile#_1、关于应该使用什么客户端)
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4VjXObRb6A8YcNiBGA9e_2Fclash_2.png" width="26" height="26" alt="Clash图标"> 获取Clash for Windows

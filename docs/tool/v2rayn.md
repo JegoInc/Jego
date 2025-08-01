@@ -10,7 +10,7 @@ v2rayN 是PC 平台上一个对新手比较友好的v2ray Windows 客户端。
 ::: danger 不推荐使用
 由于v2rayN不支持无忧行最新的协议，所以无忧行不推荐大家继续使用。by 20250714
 
-请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
+请使用[无忧行推荐的客户端](/devices/pc-mobile#_1、关于应该使用什么客户端)
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7qSsONFAwi0T78ewIQku_2Fimage_2.png" width="26" height="26" alt="v2rayN图标"> 获取 v2rayN

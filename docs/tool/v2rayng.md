@@ -10,7 +10,7 @@ v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能
 ::: danger 不推荐使用
 由于v2rayNG不支持无忧行最新的协议，所以无忧行不推荐大家继续使用。by 20250714
 
-请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
+请使用[无忧行推荐的客户端](/devices/pc-mobile#_1、关于应该使用什么客户端)
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fr7lhxwWpINBib1IY4DuB_2Fimage_2.png" width="26" height="26" alt="v2rayNG图标"> 获取 v2rayNG

@@ -10,7 +10,7 @@ OneClick是一款免费的支持主流加密协议的上网工具。
 ::: danger 不推荐使用
 该软件已经好几年不更新了，无忧行不推荐大家继续使用。
 
-请使用[无忧行推荐的客户端](/devices/pc-mobile#1关于应该使用什么客户端)
+请使用[无忧行推荐的客户端](/devices/pc-mobile#_1、关于应该使用什么客户端)
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJbOoXNw3x77qs1JZbQlI_2Foneclick_2.png" width="26" height="26" alt="OneClick图标"> 获取OneClick
