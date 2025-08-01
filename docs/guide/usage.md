@@ -9,7 +9,7 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 无忧行浏览器插件里的<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">全局</span>和<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">规则</span>模式的设置，仅仅对你当前的浏览器起作用。
 
-关于在电脑和手机上实现翻墙的教程，请移步 [如何在电脑或手机上翻墙](/devices/android)了解更多。
+关于在电脑和手机上实现翻墙的教程，请移步 [如何在电脑或手机上翻墙](/devices/pc-mobile)了解更多。
 :::
 
 ## 如何在浏览器里免费翻墙？
