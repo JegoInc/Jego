@@ -68,4 +68,7 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env 
+.env
+
+# GitHub repository files (not for VitePress)
+README.md 
