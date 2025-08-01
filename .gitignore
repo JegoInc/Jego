@@ -70,5 +70,5 @@ jspm_packages/
 # dotenv environment variables file
 .env
 
-# GitHub repository files (not for VitePress)
-README.md 
+# Note: README.md is tracked by Git for GitHub repository display
+# but excluded from VitePress processing 
