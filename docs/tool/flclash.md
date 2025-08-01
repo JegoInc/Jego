@@ -105,4 +105,4 @@ FlClash是一款基于Mihomo（原ClashMeta）的开源多平台代理客户端�
 
 请从这个视频的2分04秒看起。
 
-<video src="https://www.youtube.com/watch?t=124s&v=HtZWdMHui6I" controls></video>
+<YouTube videoId="HtZWdMHui6I" title="FlClash 使用教程视频" />
