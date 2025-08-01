@@ -54,7 +54,7 @@ export default defineConfig({
     },
     nav: [
       { text: '首页', link: '/' },
-      { text: '浏览器翻墙教程', link: '/guide/installation' },
+      { text: '浏览器翻墙教程', link: '/guide/usage' },
       { text: '电脑和手机翻墙教程', link: '/devices/pc-mobile' },
       { text: '升级会员', link: '/membership/benefits' },
       { text: '使用准则', link: '/abuse/fair-use' }
