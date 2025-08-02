@@ -6,7 +6,7 @@ title: 节点选择 - 使用指南
 
 ## 自动选择
 
-当节点服务器处于： 🌐  Auto Select / 🌐 自动选择 时，如下图：
+当节点服务器处于： `🌐  Auto Select / 🌐 自动选择` 时，如下图：
 
 ![自动选择界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fw4InYwKSvUVPNTd3Eflo_2Fimage_1.png)
 
@@ -14,7 +14,7 @@ title: 节点选择 - 使用指南
 
 ## 手动选择
 
-当节点服务器不处于 🌐 Auto Select / 🌐 自动选择 时，如下图：
+当节点服务器不处于 `🌐 Auto Select / 🌐 自动选择` 时，如下图：
 
 ![手动选择界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrtDFBSsar0JrmA2Y75K0_2Fimage_2.png)
 
