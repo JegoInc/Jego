@@ -2,10 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-Hans',
   title: "无忧行 - 使用指南",
   description: "无忧行是最好用的免费代理工具，专为Edge和Chrome浏览器设计",
-  
-  // 使用自定义域名时设置为根路径
   base: '/',
   
   sitemap: {
@@ -34,12 +33,12 @@ export default defineConfig({
     logo: '/icon48.png',
     search: {
       provider: 'local'
- //     provider: 'algolia',
- //     options: {
- //       appId: '4ICZGB6WSW',
- //       apiKey: '1c259584979876313f9ecdb24906b90f',
- //       indexName: 'help_jegovpn_com_4iczgb6wsw_pages'
- //     }
+      // provider: 'algolia',
+      // options: {
+      //   appId: '4ICZGB6WSW',
+      //   apiKey: '1c259584979876313f9ecdb24906b90f',
+      //   indexName: 'help_jegovpn_com_4iczgb6wsw_pages'
+      // }
     },
     nav: [
       { text: '浏览器翻墙教程', link: '/guide/usage' },
