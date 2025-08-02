@@ -1,5 +1,6 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
+// @ts-ignore
 import YouTube from './components/YouTube.vue'
 import './style.css'
 
