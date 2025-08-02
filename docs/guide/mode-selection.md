@@ -20,7 +20,7 @@ title: 模式选择 - 使用指南
 
 ### 开启
 
-当你的无忧行处于上图所示的状态（即<span style="color:white;background-color:green;">开启</span>按钮为选中状态），无忧行将为你提供免费的突破~~Google、~~维基百科、New Bing以及ChatGPT的服务。
+当你的无忧行处于上图所示的状态（即<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">开启</span>按钮为选中状态），无忧行将为你提供免费的突破~~Google、~~维基百科、New Bing以及ChatGPT的服务。
 
 ### 关闭
 
@@ -40,13 +40,13 @@ title: 模式选择 - 使用指南
 
 ![全局模式界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FK6K01ecRRkVwOVBylMbZ_2Fimage_1.png)
 
-当你的无忧行处于上图所示的状态（即<span style="color:white;background-color:green;">全局</span>按钮为选中状态），就代表着你使用浏览器的全局模式进行访问，访问任意网址都将经由代理（包括大陆地区的网站）。
+当你的无忧行处于上图所示的状态（即<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">全局</span>按钮为选中状态），就代表着你使用浏览器的全局模式进行访问，访问任意网址都将经由代理（包括大陆地区的网站）。
 
 ### 规则
 
 ![规则模式界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhrnVGhPqgh111EAOaSwA_2Fimage_2.png)
 
-当你的无忧行处于上图所示的状态（即<span style="color:white;background-color:green;">规则</span>按钮为选中状态），就代表着你使用浏览器的规则模式进行访问，访问任意网址都将先经过无忧行内置的规则判断是否直接访问还是经由代理访问，大陆地区的网址将默认为直接连接，境外被屏蔽的网站设为经由代理服务器访问，享受自由且高速的冲浪。
+当你的无忧行处于上图所示的状态（即<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">规则</span>按钮为选中状态），就代表着你使用浏览器的规则模式进行访问，访问任意网址都将先经过无忧行内置的规则判断是否直接访问还是经由代理访问，大陆地区的网址将默认为直接连接，境外被屏蔽的网站设为经由代理服务器访问，享受自由且高速的冲浪。
 
 ### 关闭
 
