@@ -7,7 +7,7 @@ hero:
   name: "无忧行"
   tagline: 最好用的免费代理工具，专为Edge和Chrome浏览器设计，能够安全、高效地绕过防火墙（翻墙），轻松访问全球网站。它简单易用，且兼具高效与安全。
   image:
-    src: /jego.svg
+    src: /Global.svg
     alt: 无忧行 Jego
   actions:
     - theme: brand
