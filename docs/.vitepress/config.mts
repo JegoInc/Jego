@@ -8,6 +8,10 @@ export default defineConfig({
   // 使用自定义域名时设置为根路径
   base: '/',
   
+  sitemap: {
+    hostname: 'https://help.jegovpn.com',
+    lastmodDateOnly: false
+  },
   // 启用简洁URL，移除.html后缀
   cleanUrls: true,
   
@@ -21,8 +25,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', sizes: '512x512', href: '/android-chrome-512x512.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
-    ['meta', { name: 'msapplication-config', content: '/browserconfig.xml' }]
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
   ],
   
   // 主题配置
