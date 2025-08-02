@@ -6,6 +6,7 @@ export default defineConfig({
   title: "无忧行 - 使用指南",
   description: "无忧行是最好用的免费代理工具，专为Edge和Chrome浏览器设计",
   base: '/',
+  lastUpdated: true,
   
   sitemap: {
     hostname: 'https://help.jegovpn.com',
@@ -122,6 +123,13 @@ export default defineConfig({
         ariaLabel: 'cool link'
       }
     ],
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    },
 
     footer: {
       copyright: 'Copyright © 2020-2025 Jego, All rights reserved.'
