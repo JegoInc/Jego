@@ -9,6 +9,12 @@ iOS是苹果公司为其移动设备所开发的专有移动操作系统，为�
 
 无忧行的订阅节点服务（大陆用户通常称之为"机场"）与iOS、iPadOS系统上的众多网络代理工具程序（大陆用户通常称之为"梯子"）兼容。只需简单学习，就能轻松让电脑和手机上的所有应用程序都能翻墙，随时畅享全球无限制网络资源。
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7GBp8VQdHNWWH3aalDTP_2Fios_3.svg" width="38" height="28" alt="iOS图标"> **iOS/iPadOS 设备上能用的代理工具**
 
 ### 推荐使用下列软件

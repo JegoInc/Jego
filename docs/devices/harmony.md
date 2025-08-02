@@ -9,6 +9,12 @@ description: 鸿蒙（英语：HarmonyOS，简称HMOS，开发代号Ark，正式
 
 无忧行的订阅节点服务（大陆用户通常称之为"机场"）与HarmonyOS鸿蒙和Android系统上的众多网络代理工具程序（大陆用户通常称之为"梯子"）兼容。只需简单学习，就能轻松让电脑和手机上的所有应用程序都能翻墙，随时畅享全球无限制网络资源。
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS图标"> HarmonyOS 5(鸿蒙) 设备上能用的代理工具
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F383xngX8wSAPFZZieolo_2FClashBox_2.png" width="26" height="26" alt="ClashBox图标"> [ClashBox](/tool/clashbox) <span style="color:green;">`🧪实验品`</span>
