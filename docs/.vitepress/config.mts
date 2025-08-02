@@ -31,7 +31,7 @@ export default defineConfig({
   // 主题配置
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/icon48.png',
+    logo: { src: '/jego.svg', width: 24, height: 24 },
     search: {
       provider: 'local'
       // provider: 'algolia',
