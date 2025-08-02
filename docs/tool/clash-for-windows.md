@@ -13,6 +13,14 @@ description: 本文是Clash for Windows客户端的教程，Clash for Windows已
 请使用[无忧行推荐的客户端](/devices/pc-mobile#_1、关于应该使用什么客户端)
 :::
 
+::: danger 已下架
+Clash for Windows已于2023年11月2日下架。
+:::
+
+::: info 替代方案
+可以移步 [Clash/Mihomo系列软件](/tool/mihomo) 页面获取最新软件。
+:::
+
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4VjXObRb6A8YcNiBGA9e_2Fclash_2.png" width="26" height="26" alt="Clash图标"> 获取Clash for Windows
 
 可从这里下载最后版本的备份文件：[https://archive.org/download/clash_for_windows_pkg](https://archive.org/download/clash_for_windows_pkg)
