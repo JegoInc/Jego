@@ -17,7 +17,7 @@ description: 鸿蒙（英语：HarmonyOS，简称HMOS，开发代号Ark，正式
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS图标"> HarmonyOS 5(鸿蒙) 设备上能用的代理工具
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F383xngX8wSAPFZZieolo_2FClashBox_2.png" width="26" height="26" alt="ClashBox图标"> [ClashBox](/tool/clashbox) <span style="color:green;">`🧪实验品`</span>
+<img src="/images/clashbox-logo.png" width="26" height="26" alt="ClashBox图标"> [ClashBox](/tool/clashbox) <span style="color:green;">`🧪实验品`</span>
 
 ClashBox/ClashNEXT是首个基于Navigation框架的HarmonyOS NEXT(OpenHarmony)平台的代理软件，使用改版的Mihomo(ClashMeta)内核。
 

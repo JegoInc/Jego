@@ -25,7 +25,7 @@ ClashBox暂未开源，请谨慎使用。
 PuraX外屏目前仅显示华为白名单内的App，在本软件获得白名单之前暂不可用。
 :::
 
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F383xngX8wSAPFZZieolo_2FClashBox_2.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
+## <img src="/images/clashbox-logo.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
 
 从华为应用市场换区下载
 
