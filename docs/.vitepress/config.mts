@@ -53,15 +53,15 @@ export default defineConfig({
                 resetButtonTitle: '清除查询条件',
                 footer: {
                   selectText: '选择',
-                  submitQuestionText: '提交问题',
+                  // submitQuestionText: '提交问题',
                   selectKeyAriaLabel: 'Enter 键',
                   navigateText: '切换',
                   navigateUpKeyAriaLabel: '向上箭头',
                   navigateDownKeyAriaLabel: '向下箭头',
                   closeText: '关闭',
-                  backToSearchText: '返回搜索',
+                  // backToSearchText: '返回搜索',
                   closeKeyAriaLabel: 'Esc 键',
-                  poweredByText: '搜索提供者'
+                  // poweredByText: '搜索提供者'
                 }
               }
             }
