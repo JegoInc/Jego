@@ -36,12 +36,11 @@ PuraX外屏目前仅显示华为白名单内的App，在本软件获得白名单
 * 使用卓易通内的科学上网工具开全局后选择香港节点，然后应用市场搜索clashbox
 
 * 重新注册一个华为港区账号，国内手机号即可注册。注册完毕后去设置退出原来的华为国区账号，换为新注册的香港区。最后去App Gallery搜索Clashbox
-:::
 
 从Github库下载，然后使用开发者工具进行安装
 * Github下载：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.com/xiaobaigroup/ClashBox/releases)
-* 使用[Auto-installer](https://github.com/likuai2010/auto-installer/)进行安装
-* 使用[DevEcho Testing](https://developer.huawei.com/consumer/cn/deveco-testing/)进行安装
+* 然后使用[Auto-installer](https://github.com/likuai2010/auto-installer/)进行安装
+* 或者使用[DevEcho Testing](https://developer.huawei.com/consumer/cn/deveco-testing/)进行安装
 
 ::: warning 地区限制
 华为的签名服务器屏蔽了非中国大陆的IP地址，若要在非中国大陆的国家/地区为HarmonyOS NEXT侧载软件，请使用代理等方式使用中国大陆的IP地址。
