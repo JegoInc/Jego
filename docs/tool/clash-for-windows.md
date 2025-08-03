@@ -37,6 +37,12 @@ macOS请下载<span style="color:blue;">`Clash.for.Windows-[版本号]-mac.7z`</
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZi4WzVyeec9wgY50xRLc_2Fimage_2.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 Clash for Windows，点击窗口左侧的 **Profiles** (配置文件)。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKUWlGIFpAyHjpFHOAhYE_2Fimage_3.png" alt="Profiles页面">

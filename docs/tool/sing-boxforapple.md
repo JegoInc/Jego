@@ -32,6 +32,12 @@ macOS还可以通过Github和命令行安装
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQ9Ncmw0YFCe4ziEMoSuw_2Fimage_3.png" alt="Sing-Box订阅地址">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 ## sing-box for macOS /SFM 使用教程
 
 ### 添加订阅

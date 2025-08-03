@@ -20,16 +20,28 @@ ClashBox暂未开源，请谨慎使用。
 * 📱多端适配：UI方面对手机、平板、折叠屏、鸿蒙电脑甚至PuraX外屏*都进行了适配；
 * 🚀稳定内核：采用广受好评的[Mihomo(ClashMeta)](https://github.com/MetaCubeX/mihomo)内核，功能基本对齐[Mihomo(ClashMeta)](https://github.com/MetaCubeX/mihomo)，稳定可靠；
 * 🔄核心恢复：由于HarmonyOS NEXT的后台调度机制尚不成熟，软件可能存在后台进程被系统关闭的情况，因此ClashBox内置了核心恢复功能，系统杀进程后将自动恢复核心进程（开启"后台运行-模拟画中画"后将自动启用本功能）。
-
+<img src="/images/clashbox_photo_2025-07-16_19-30-48.jpg" alt="ClashBox" width="297" heigh="640">
 ::: info 外屏说明
 PuraX外屏目前仅显示华为白名单内的App，在本软件获得白名单之前暂不可用。
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F383xngX8wSAPFZZieolo_2FClashBox_2.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
 
-Github库：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.com/xiaobaigroup/ClashBox/releases)
+从华为应用市场换区下载
 
-您可以使用[Auto-installer](https://github.com/likuai2010/auto-installer/)或[DevEcho Testing](https://developer.huawei.com/consumer/cn/deveco-testing/)进行安装。
+* 另一台鸿蒙4.2在华为应用市场换区后 鸿蒙5.0登录华为应用市场搜索clashbox
+
+* 侧载clashbox打开全局后选择香港节点，然后打开华为应用市场搜索clashbox
+
+* 使用卓易通内的科学上网工具开全局后选择香港节点，然后应用市场搜索clashbox
+
+* 重新注册一个华为港区账号，国内手机号即可注册。注册完毕后去设置退出原来的华为国区账号，换为新注册的香港区。最后去App Gallery搜索Clashbox
+:::
+
+从Github库下载，然后使用开发者工具进行安装
+* Github下载：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.com/xiaobaigroup/ClashBox/releases)
+* 使用[Auto-installer](https://github.com/likuai2010/auto-installer/)进行安装
+* 使用[DevEcho Testing](https://developer.huawei.com/consumer/cn/deveco-testing/)进行安装
 
 ::: warning 地区限制
 华为的签名服务器屏蔽了非中国大陆的IP地址，若要在非中国大陆的国家/地区为HarmonyOS NEXT侧载软件，请使用代理等方式使用中国大陆的IP地址。
@@ -45,4 +57,23 @@ Github库：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.c
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fbf6ZGnMBZioZr9rD5P5J_2Fimage_2.png" alt="无忧行控制面板">
 
-ClashBox/ClashNEXT 使用攻略施工中……（大饼
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
+## ClashBox/ClashNEXT 使用教程
+
+### 配置订阅
+打开`ClashBox`进入`配置`页面，然后点击右下角的` + `添加订阅
+<img src="/images/clashbox_photo_2025-08-03_10-56-23.jpg" alt="ClashBox" width="297" heigh="640">
+
+### 启动代理
+打开`ClashBox`，在`主页`直接点击右下角的` ▶ `启动即可翻墙。
+<img src="/images/clashbox_photo_2025-07-14_21-16-26.jpg" alt="ClashBox" width="297" heigh="640">
+
+### 节点切换
+打开`ClashBox`进入`代理`页面，然后根据需求选择即可。
+
+其使用方法和同类软件大同小异，可以参考[FlClash](flclash) ，也可以参考鼻祖产品[Clash for Android](clash-for-android)

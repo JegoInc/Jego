@@ -20,6 +20,12 @@ Surfboard 是一款运行在 Android 系统上的网络代理工具。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZMDHBqHudtCdWwPe57a1_2Fimage_1.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 Surfboard 主界面，切换到配置选项卡，点击右下方的添加订阅按钮，选择"使用链接下载"，在弹出的输入框中粘贴转换好的订阅地址。点击下载，surfboard将下载订阅链接。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F787BLph6XQk70ClYunzK_2Fimage_2.png" alt="添加订阅">

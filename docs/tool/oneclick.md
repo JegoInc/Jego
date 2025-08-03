@@ -35,6 +35,12 @@ OneClick是一款免费的支持主流加密协议的上网工具。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FSw1y49nJ027tgYJL8gvd_2Fimage_3.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 进入OneClick，点击右上角的"+"按钮，进入添加服务器界面，点击"添加订阅"按钮，把复制好的订阅地址粘贴到地址栏，同时填写备注信息，最后点击右上角的确认按钮完成添加。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FWm6CG03AfjzAkGt3RHPJ_2Fimage_1.png" alt="添加订阅1">

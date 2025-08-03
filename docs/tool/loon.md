@@ -34,6 +34,12 @@ description: Loon是一个集网络代理、网络调试、网络改写等一系
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FepWbFG2WzCAPvzzriSLX_2Fimage_3.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 进入Loon ，按照 **Profile** -> **All Nodes** -> :heavy_plus_sign:  的路径点击点击到如下图所示，把复制好的订阅地址粘贴到地址栏，同时填写名字，最后点击右上角的确认按钮完成添加。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEYFUwKu3KY9d1JL8NVE2_2Fimage_1.png" alt="添加订阅">

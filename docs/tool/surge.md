@@ -27,6 +27,12 @@ Surge 的网络代理功能需要解锁 Pro 授权，可通过 [AppStore 内购]
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIJSBJWhaXZhdze3wrTAj_2Fimage_2.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 Surge 软件，点击左上角下拉菜单。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F6jHcOdya25R6pHIgZwf6_2Fimage_3.png" alt="下拉菜单">

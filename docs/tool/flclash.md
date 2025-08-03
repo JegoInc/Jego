@@ -41,6 +41,12 @@ FlClash是一款基于Mihomo（原ClashMeta）的开源多平台代理客户端�
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fbf6ZGnMBZioZr9rD5P5J_2Fimage_2.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 FlClash，依次进入 **配置** > **新配置+** > **URL** 。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FA1tnxVXgicb51EQ4sbmy_2Fimage_3.png" alt="新配置+"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FUCyxhXIZubhodcSGWnUg_2Fimage_1.png" alt="URL">

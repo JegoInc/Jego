@@ -35,6 +35,12 @@ Clash for Android已于2023年11月3日下架。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FZi4WzVyeec9wgY50xRLc_2Fimage_2.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 Clash for Android ，依次进入 **配置** > **新配置** > **URL** 。 \
 在 URL 一栏中粘贴 Clash 配置订阅链接；自动更新 (分钟) 推荐填写 **1440** ，即每 24 小时自动从链接中更新配置文件。
 

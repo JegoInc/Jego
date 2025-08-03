@@ -30,6 +30,12 @@ Shadowrocket 是一个功能齐全的 iOS 代理工具客戶端，支持大多�
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FR0ByTjT0xp3A9tvDTjft_2Fimage_2.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 **Shadowrocket**，点击右上角**＋**，类型选择 "**Subscribe** (订阅)"。 粘贴订阅链接至 URL 后，点击右上角 "**完成**"，Shadowrocket 将从订阅链接获取节点。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FOBAhmS7As9DK6SaRhEkD_2Fimage_3.png" alt="添加订阅">

@@ -30,6 +30,12 @@ Quantumult X是iOS上一款功能强大的网络工具。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQm1BeQfkNoZIVisl8RpP_2Fimage_1.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 打开 **Quantumult X**，打开App，点击**右下角图标** <img src="https://file.olo4.com/unpanel/quantumult%20x%20setup.jpg" alt="quantumult_x_setup">
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FTYLTzRrBAtQzw9mgGxzK_2Fimage_3.png" alt="Quantumult X界面">

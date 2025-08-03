@@ -35,6 +35,12 @@ v2rayN 是PC 平台上一个对新手比较友好的v2ray Windows 客户端。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FDyLv7ygtf5WM9W3yG7zs_2Fimage_1.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 点击软件主界面的`订阅分组`，`点击订阅分组设置`，如下图所示：
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbI3ynYxOFBiJyBoHiEaB_2F1706686626-v2rayN-Subscription-Group_2.jpg" alt="订阅分组设置">

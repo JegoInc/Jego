@@ -23,6 +23,18 @@ GUI.for.SingBox是开源社区基于sing-box内核在Windows系统里做的图�
 
 ## GUI.for.SingBox Windows版本使用教程
 
+## 添加订阅
+
+在**无忧行 - 控制面板**里点击左侧导航栏**订阅节点**  ，找到**Sing-Box**订阅地址并点击**复制**。
+
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQ9Ncmw0YFCe4ziEMoSuw_2Fimage_3.png" alt="Sing-Box订阅地址">
+
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 ### 基础设置
 
 下载后先点开 `Settings - Kernel` 然后看sing-box标题下面的 `Local` 有没有内核版本，如下方左侧图所示就是没有，需要点击右侧蓝色的按钮`Update:版本` 进行安装。ps.以后有内核有新版本也是点这里更新。

@@ -37,6 +37,12 @@ v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FvcuzdBLdVvZgq9XT0TZy_2Fimage_1.png" alt="无忧行控制面板">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 如下图所示点击软件主界面左上角`三道杠`按钮，在弹出窗口进入系统设置界面，然后点击订阅设置，如下图所示。
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrnZkA6aiORpPAnFztckr_2Fimage_2.png" alt="系统设置">

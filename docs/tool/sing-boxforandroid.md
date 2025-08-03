@@ -28,6 +28,12 @@ sing-box for Android 简称 SFA，SFA是sing-box官方推出的图形界面客�
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FQ9Ncmw0YFCe4ziEMoSuw_2Fimage_3.png" alt="Sing-Box订阅地址">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 ## sing-box for Android 使用教程
 
 ### 添加订阅

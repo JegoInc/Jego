@@ -82,6 +82,12 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIiJUB1Wa62NjydQ7rhLb_2Fimage_1.png" alt="Mihomo订阅地址">
 
+<div class="tip custom-block" style="padding-top: 8px">
+
+无忧行订阅服务手机面板：<https://jego.us>
+
+</div>
+
 ## 电脑上：Mihomo Party 翻墙视频教程
 
 <YouTube videoId="jmnSpxgcbAI" title="Mihomo Party 翻墙视频教程" />
