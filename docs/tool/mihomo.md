@@ -7,6 +7,10 @@ description: MetaCubeX基于Clash核心推出的全新的Mihomo内核，团队�
 
 MetaCubeX基于Clash核心推出的全新的Mihomo内核，团队持续地在开源社区维护和更新，生态链里已经推出了包含Windows、Andriod、macOS和Linux的客户端。
 
+<img src="/images/Mihomo-logo.png" width="38" height="38" alt="Mihomo">
+
+### Mihomo简介
+
 Mihomo原名Clash Meta，是基于广受欢迎的开源网络代理工具Clash开发的增强网络代理工具。
 
 Mihomo不仅继承了Clash的核心功能，还增加了一些独特的特性，如支持更多的出站传输协议和复杂的规则控制等。
@@ -21,8 +25,6 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 * **规则模块**：提供详细的流量分流规则，支持SRC-PORT和DST-PORT的多条件控制，支持TCP/UDP分别设置。
 * **DNS模块**：增强了域名嗅探器功能，支持使用代理解析IP和DNS over QUIC等技术。
 * **TUN模块**：支持在macOS、Linux和Windows平台上运行，内置了必要的驱动程序​​。
-
----
 
 ## 以Mihomo为内核的客户端下载
 
