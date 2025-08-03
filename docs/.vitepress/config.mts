@@ -27,6 +27,191 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
   ],
+
+  // 国际化配置
+  locales: {
+    root: {
+      label: '中文',
+      lang: 'zh-Hans',
+      title: "无忧行 - 使用指南",
+      description: "无忧行是最好用的免费代理工具，专为Edge和Chrome浏览器设计",
+      themeConfig: {
+        // 中文主题配置
+        nav: [
+          { text: '浏览器翻墙教程', link: '/guide/usage' },
+          { text: '电脑和手机翻墙教程', link: '/devices/pc-mobile' }
+        ],
+        sidebar: [
+          {
+            text: '使用教程',
+            items: [
+              { text: '📗如何安装', link: '/guide/installation' },
+              { text: '👶如何注册', link: '/guide/registration' },
+              { text: '🔮如何翻墙', link: '/guide/usage' },
+              { text: '🤖如何解锁New Bing、Copilot或者ChatGPT', link: '/guide/chatgpt-access' },
+              { text: '🟢服务详解', link: '/guide/services' },
+              { text: '🌐节点选择', link: '/guide/node-selection' },
+              { text: '📋节点介绍', link: '/guide/nodes' },
+              { text: '☑️模式选择', link: '/guide/mode-selection' },
+              { text: '🔀代理策略', link: '/guide/proxy-strategy' },
+              { text: '🆕防止失联', link: '/guide/keep-updated' },
+              { text: '🙋联系客服', link: '/guide/support' },
+              { text: '❓常见问题', link: '/guide/faq' }
+            ]
+          },
+          {
+            text: '升级会员',
+            items: [
+              { text: '🏆会员体系', link: '/membership/benefits' },
+              { text: '💳如何支付', link: '/membership/payment' }
+            ]
+          },
+          {
+            text: '订阅服务',
+            items: [
+              { text: '在电脑或手机上如何翻墙', link: '/devices/pc-mobile' },
+              { text: '安卓手机怎么翻墙', link: '/devices/android' },
+              { text: '苹果手机/iPad 怎么翻墙', link: '/devices/ios' },
+              { text: '华为鸿蒙手机怎么翻墙', link: '/devices/harmony' },
+              { text: 'Windows 电脑怎么翻墙', link: '/devices/windows' },
+              { text: '苹果Mac电脑怎么翻墙', link: '/devices/mac' },
+              { text: 'Linux 电脑怎么翻墙', link: '/devices/linux' }
+            ]
+          },
+          {
+            text: '工具软件',
+            items: [
+              { text: 'Mihomo系列软件', link: '/tool/mihomo' },
+              { text: 'sing-box', link: '/tool/sing-box' },
+              { text: 'FlClash', link: '/tool/flclash' },
+              { text: 'sing-box for Android', link: '/tool/sing-boxforandroid' },
+              { text: 'sing-box for Apple', link: '/tool/sing-boxforapple' },
+              { text: 'GUI.for.SingBox', link: '/tool/guiforsing-box' },
+              { text: 'Shadowrocket', link: '/tool/shadowrocket' },
+              { text: 'Surfboard', link: '/tool/surfboard' },
+              { text: 'v2rayN', link: '/tool/v2rayn' },
+              { text: 'v2rayNG', link: '/tool/v2rayng' },
+              { text: 'OneClick', link: '/tool/oneclick' },
+              { text: 'Surge', link: '/tool/surge' },
+              { text: 'Quantumult X', link: '/tool/quantumult-x' },
+              { text: 'Loon', link: '/tool/loon' },
+              { text: 'ClashBox', link: '/tool/clashbox' },
+              { text: 'Clash for Windows', link: '/tool/clash-for-windows' },
+              { text: 'Clash for Android', link: '/tool/clash-for-android' }
+            ]
+          },
+          {
+            text: '使用准则',
+            items: [
+              { text: '❤️公平使用', link: '/abuse/fair-use' },
+              { text: '⏳流量限制', link: '/abuse/limits' }
+            ]
+          }
+        ],
+        lastUpdated: {
+          text: '最后更新于',
+          formatOptions: {
+            dateStyle: 'full',
+            timeStyle: 'medium'
+          }
+        },
+        footer: {
+          copyright: 'Copyright © 2020-2025 Jego, All rights reserved.'
+        }
+      }
+    },
+    en: {
+      label: 'English',
+      lang: 'en',
+      title: "Jego - User Guide",
+      description: "Jego is the best free proxy tool designed for Edge and Chrome browsers",
+      link: '/en/',
+      themeConfig: {
+        // 英文主题配置
+        nav: [
+          { text: 'Browser Proxy Tutorial', link: '/en/guide/usage' },
+          { text: 'PC & Mobile Proxy Tutorial', link: '/en/devices/pc-mobile' }
+        ],
+        sidebar: [
+          {
+            text: 'User Guide',
+            items: [
+              { text: '📗How to Install', link: '/en/guide/installation' },
+              { text: '👶How to Register', link: '/en/guide/registration' },
+              { text: '🔮How to Use Proxy', link: '/en/guide/usage' },
+              { text: '🤖How to Access New Bing, Copilot or ChatGPT', link: '/en/guide/chatgpt-access' },
+              { text: '🟢Service Details', link: '/en/guide/services' },
+              { text: '🌐Node Selection', link: '/en/guide/node-selection' },
+              { text: '📋Node Introduction', link: '/en/guide/nodes' },
+              { text: '☑️Mode Selection', link: '/en/guide/mode-selection' },
+              { text: '🔀Proxy Strategy', link: '/en/guide/proxy-strategy' },
+              { text: '🆕Stay Connected', link: '/en/guide/keep-updated' },
+              { text: '🙋Contact Support', link: '/en/guide/support' },
+              { text: '❓FAQ', link: '/en/guide/faq' }
+            ]
+          },
+          {
+            text: 'Premium Membership',
+            items: [
+              { text: '🏆Membership Benefits', link: '/en/membership/benefits' },
+              { text: '💳How to Pay', link: '/en/membership/payment' }
+            ]
+          },
+          {
+            text: 'Subscription Services',
+            items: [
+              { text: 'How to Use Proxy on PC or Mobile', link: '/en/devices/pc-mobile' },
+              { text: 'How to Use Proxy on Android', link: '/en/devices/android' },
+              { text: 'How to Use Proxy on iPhone/iPad', link: '/en/devices/ios' },
+              { text: 'How to Use Proxy on Harmony OS', link: '/en/devices/harmony' },
+              { text: 'How to Use Proxy on Windows', link: '/en/devices/windows' },
+              { text: 'How to Use Proxy on Mac', link: '/en/devices/mac' },
+              { text: 'How to Use Proxy on Linux', link: '/en/devices/linux' }
+            ]
+          },
+          {
+            text: 'Tools & Software',
+            items: [
+              { text: 'Mihomo Series', link: '/en/tool/mihomo' },
+              { text: 'sing-box', link: '/en/tool/sing-box' },
+              { text: 'FlClash', link: '/en/tool/flclash' },
+              { text: 'sing-box for Android', link: '/en/tool/sing-boxforandroid' },
+              { text: 'sing-box for Apple', link: '/en/tool/sing-boxforapple' },
+              { text: 'GUI.for.SingBox', link: '/en/tool/guiforsing-box' },
+              { text: 'Shadowrocket', link: '/en/tool/shadowrocket' },
+              { text: 'Surfboard', link: '/en/tool/surfboard' },
+              { text: 'v2rayN', link: '/en/tool/v2rayn' },
+              { text: 'v2rayNG', link: '/en/tool/v2rayng' },
+              { text: 'OneClick', link: '/en/tool/oneclick' },
+              { text: 'Surge', link: '/en/tool/surge' },
+              { text: 'Quantumult X', link: '/en/tool/quantumult-x' },
+              { text: 'Loon', link: '/en/tool/loon' },
+              { text: 'ClashBox', link: '/en/tool/clashbox' },
+              { text: 'Clash for Windows', link: '/en/tool/clash-for-windows' },
+              { text: 'Clash for Android', link: '/en/tool/clash-for-android' }
+            ]
+          },
+          {
+            text: 'Usage Guidelines',
+            items: [
+              { text: '❤️Fair Use', link: '/en/abuse/fair-use' },
+              { text: '⏳Traffic Limits', link: '/en/abuse/limits' }
+            ]
+          }
+        ],
+        lastUpdated: {
+          text: 'Last updated',
+          formatOptions: {
+            dateStyle: 'full',
+            timeStyle: 'medium'
+          }
+        },
+        footer: {
+          copyright: 'Copyright © 2020-2025 Jego, All rights reserved.'
+        }
+      }
+    }
+  },
   
   // 主题配置
   themeConfig: {
@@ -65,82 +250,31 @@ export default defineConfig({
                 }
               }
             }
+          },
+          en: {
+            translations: {
+              button: {
+                buttonText: 'Search docs',
+                buttonAriaLabel: 'Search docs'
+              },
+              modal: {
+                noResultsText: 'No results found',
+                resetButtonTitle: 'Clear search',
+                footer: {
+                  selectText: 'Select',
+                  selectKeyAriaLabel: 'Enter key',
+                  navigateText: 'Navigate',
+                  navigateUpKeyAriaLabel: 'Up arrow',
+                  navigateDownKeyAriaLabel: 'Down arrow',
+                  closeText: 'Close',
+                  closeKeyAriaLabel: 'Esc key'
+                }
+              }
+            }
           }
         }
       }
     },
-    nav: [
-      { text: '浏览器翻墙教程', link: '/guide/usage' },
-      { text: '电脑和手机翻墙教程', link: '/devices/pc-mobile' }
-    ],
-
-    sidebar: [
-      {
-        text: '使用教程',
-        items: [
-          { text: '📗如何安装', link: '/guide/installation' },
-          { text: '👶如何注册', link: '/guide/registration' },
-          { text: '🔮如何翻墙', link: '/guide/usage' },
-          { text: '🤖如何解锁New Bing、Copilot或者ChatGPT', link: '/guide/chatgpt-access' },
-          { text: '🟢服务详解', link: '/guide/services' },
-          { text: '🌐节点选择', link: '/guide/node-selection' },
-          { text: '📋节点介绍', link: '/guide/nodes' },
-          { text: '☑️模式选择', link: '/guide/mode-selection' },
-          { text: '🔀代理策略', link: '/guide/proxy-strategy' },
-          { text: '🆕防止失联', link: '/guide/keep-updated' },
-          { text: '🙋联系客服', link: '/guide/support' },
-          { text: '❓常见问题', link: '/guide/faq' }
-        ]
-      },
-      {
-        text: '升级会员',
-        items: [
-          { text: '🏆会员体系', link: '/membership/benefits' },
-          { text: '💳如何支付', link: '/membership/payment' }
-        ]
-      },
-      {
-        text: '订阅服务',
-        items: [
-          { text: '在电脑或手机上如何翻墙', link: '/devices/pc-mobile' },
-          { text: '安卓手机怎么翻墙', link: '/devices/android' },
-          { text: '苹果手机/iPad 怎么翻墙', link: '/devices/ios' },
-          { text: '华为鸿蒙手机怎么翻墙', link: '/devices/harmony' },
-          { text: 'Windows 电脑怎么翻墙', link: '/devices/windows' },
-          { text: '苹果Mac电脑怎么翻墙', link: '/devices/mac' },
-          { text: 'Linux 电脑怎么翻墙', link: '/devices/linux' }
-        ]
-      },
-      {
-        text: '工具软件',
-        items: [
-          { text: 'Mihomo系列软件', link: '/tool/mihomo' },
-          { text: 'sing-box', link: '/tool/sing-box' },
-          { text: 'FlClash', link: '/tool/flclash' },
-          { text: 'sing-box for Android', link: '/tool/sing-boxforandroid' },
-          { text: 'sing-box for Apple', link: '/tool/sing-boxforapple' },
-          { text: 'GUI.for.SingBox', link: '/tool/guiforsing-box' },
-          { text: 'Shadowrocket', link: '/tool/shadowrocket' },
-          { text: 'Surfboard', link: '/tool/surfboard' },
-          { text: 'v2rayN', link: '/tool/v2rayn' },
-          { text: 'v2rayNG', link: '/tool/v2rayng' },
-          { text: 'OneClick', link: '/tool/oneclick' },
-          { text: 'Surge', link: '/tool/surge' },
-          { text: 'Quantumult X', link: '/tool/quantumult-x' },
-          { text: 'Loon', link: '/tool/loon' },
-          { text: 'ClashBox', link: '/tool/clashbox' },
-          { text: 'Clash for Windows', link: '/tool/clash-for-windows' },
-          { text: 'Clash for Android', link: '/tool/clash-for-android' }
-        ]
-      },
-      {
-        text: '使用准则',
-        items: [
-          { text: '❤️公平使用', link: '/abuse/fair-use' },
-          { text: '⏳流量限制', link: '/abuse/limits' }
-        ]
-      }
-    ],
 
     socialLinks: [
       {
@@ -150,17 +284,6 @@ export default defineConfig({
         link: 'https://www.jegovpn.com/zh/',
         ariaLabel: 'cool link'
       }
-    ],
-    lastUpdated: {
-      text: '最后更新于',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
-    },
-
-    footer: {
-      copyright: 'Copyright © 2020-2025 Jego, All rights reserved.'
-    }
+    ]
   }
 })

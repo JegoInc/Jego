@@ -1,66 +1,67 @@
-# 无忧行
+# VitePress Site
 
-最好用的免费代理工具，专为Edge和Chrome浏览器设计，能够安全、高效地绕过防火墙（翻墙），轻松访问全球网站。它简单易用，且兼具高效与安全。
+This is a VitePress site with internationalization support.
 
-# 无忧行 - 使用指南
-
-这是无忧行VPN服务的使用指南网站，基于VitePress构建。
-
-## 📖 网站内容
-
-本网站包含以下内容：
-
-- **使用教程** - 安装、注册、翻墙等详细教程
-- **设备支持** - Windows、macOS、Linux、Android、iOS等各平台教程
-- **工具软件** - 各种代理工具的使用指南
-- **会员服务** - 升级会员的详细说明
-- **使用准则** - 公平使用和流量限制说明
-
-## 🚀 本地开发
-
-```bash
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run docs:dev
-
-# 构建生产版本
-npm run docs:build
-
-# 预览构建结果
-npm run docs:preview
-```
-
-## 📁 项目结构
+## Directory Structure
 
 ```
 docs/
-├── .vitepress/          # VitePress配置
-├── guide/              # 使用教程
-├── devices/            # 设备支持
-├── tool/               # 工具软件
-├── membership/         # 会员服务
-├── abuse/              # 使用准则
-└── public/             # 静态资源
+├─ en/                    # English version
+│  ├─ index.md           # English homepage
+│  ├─ guide/             # English guides
+│  ├─ devices/           # English device guides
+│  ├─ membership/        # English membership
+│  ├─ abuse/             # English usage guidelines
+│  └─ tool/              # English tool guides
+├─ index.md              # Chinese homepage (root)
+├─ guide/                # Chinese guides
+├─ devices/              # Chinese device guides
+├─ membership/           # Chinese membership
+├─ abuse/                # Chinese usage guidelines
+└─ tool/                 # Chinese tool guides
 ```
 
-## 🌐 在线访问
+## Internationalization Configuration
 
-- **网站地址**: https://help.jegovpn.com/
-- **GitHub Pages**: https://jegoinc.github.io/Jego/
+The site is configured with Chinese as the root language and English as an additional locale:
 
-## 📝 技术栈
+- **Root (Chinese)**: `/` - Main Chinese content
+- **English**: `/en/` - English version
 
-- **VitePress** - 静态站点生成器
-- **Vue 3** - 前端框架
-- **Markdown** - 内容编写
-- **GitHub Actions** - 自动部署
+### Configuration Details
 
-## 🤝 贡献
+- Chinese is set as the root locale with `lang: 'zh-Hans'`
+- English is configured as a separate locale with `lang: 'en'` and `link: '/en/'`
+- Each locale has its own navigation, sidebar, and search translations
+- The site supports language switching through the built-in VitePress i18n features
 
-欢迎提交Issue和Pull Request来改进文档内容。
+## Development
 
-## 📄 许可证
+```bash
+# Start development server
+npm run docs:dev
 
-MIT License 
+# Build for production
+npm run docs:build
+
+# Preview production build
+npm run docs:preview
+```
+
+## Adding Content
+
+### For Chinese (Root)
+- Add content directly to the appropriate directories under `docs/`
+- Example: `docs/guide/new-feature.md`
+
+### For English
+- Add content to the corresponding directories under `docs/en/`
+- Example: `docs/en/guide/new-feature.md`
+- Update all internal links to include `/en/` prefix
+
+## Notes
+
+- All English content should be placed in the `docs/en/` directory
+- Internal links in English content should include the `/en/` prefix
+- Images and other assets are shared between both languages
+- The configuration supports automatic language detection and switching 

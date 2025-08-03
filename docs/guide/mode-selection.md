@@ -20,7 +20,7 @@ title: 模式选择 - 使用指南
 
 ### 开启
 
-当你的无忧行处于上图所示的状态（即<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">开启</span>按钮为选中状态），无忧行将为你提供免费的突破~~Google、~~维基百科、New Bing以及ChatGPT的服务。
+当你的无忧行处于上图所示的状态（即<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">开启</span>按钮为选中状态），无忧行将为你提供免费的突破Google、维基百科、New Bing以及ChatGPT的服务。
 
 ### 关闭
 
