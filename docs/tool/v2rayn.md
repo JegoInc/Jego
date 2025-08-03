@@ -103,8 +103,8 @@ core类型一共有四个，分别是v2fly、SgerNet、Xray、sing-box，一般�
 
 #### 支持哪些协议？
 
-<img src="/images/image_1655215063-favicon-70x70_3.png" alt="v2rayN">VMess、VLESS、Trojan、Socks、Shadowsocks、Hysteria2、Tuic等代理协议。
+<img src="/images/image_1655215063-favicon-70x70_3.png" alt="v2rayN" width="30">VMess、VLESS、Trojan、Socks、Shadowsocks、Hysteria2、Tuic等代理协议。
 
 #### 与 v2rayNG 的关系？
 
-<img src="/images/image_1707374615-v2rayNG-150x150_1.png" alt="v2rayNG">v2rayN 安卓手机版名为 v2rayNG，可移步至 [v2rayNG](/tool/v2rayng) 下载并查看详细教程。
+<img src="/images/image_1707374615-v2rayNG-150x150_1.png" alt="v2rayNG" width="30">v2rayN 安卓手机版名为 v2rayNG，可移步至 [v2rayNG](/tool/v2rayng) 下载并查看详细教程。
