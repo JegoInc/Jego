@@ -22,7 +22,7 @@ description: 鸿蒙（英语：HarmonyOS，简称HMOS，开发代号Ark，正式
 ClashBox/ClashNEXT是首个基于Navigation框架的HarmonyOS NEXT(OpenHarmony)平台的代理软件，使用改版的Mihomo(ClashMeta)内核。
 
 ::: danger 安装条件
-ClashBox/ClashNEXT 的安装条件非常硬核，需要华为开发者账户。
+ClashBox/ClashNEXT 的安装条件非常硬核，需要华为开发者账户或者华为应用市场境外账户。
 :::
 
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS图标"> HarmonyOS 1.0至4.3(鸿蒙) 设备上能用的代理工具
