@@ -33,13 +33,41 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: { src: '/jego.svg', width: 24, height: 24 },
     search: {
-      provider: 'local'
       // provider: 'algolia',
       // options: {
       //   appId: '4ICZGB6WSW',
       //   apiKey: '1c259584979876313f9ecdb24906b90f',
       //   indexName: 'help_jegovpn_com_4iczgb6wsw_pages'
       // }
+      provider: 'local',
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: '搜索文档',
+                buttonAriaLabel: '搜索文档'
+              },
+              modal: {
+                noResultsText: '无法找到相关结果',
+                resetButtonTitle: '清除查询条件',
+                footer: {
+                  selectText: '选择',
+                  submitQuestionText: '提交问题',
+                  selectKeyAriaLabel: 'Enter 键',
+                  navigateText: '切换',
+                  navigateUpKeyAriaLabel: '向上箭头',
+                  navigateDownKeyAriaLabel: '向下箭头',
+                  closeText: '关闭',
+                  backToSearchText: '返回搜索',
+                  closeKeyAriaLabel: 'Esc 键',
+                  poweredByText: '搜索提供者'
+                }
+              }
+            }
+          }
+        }
+      }
     },
     nav: [
       { text: '浏览器翻墙教程', link: '/guide/usage' },
