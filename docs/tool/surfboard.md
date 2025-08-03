@@ -10,9 +10,8 @@ Surfboard 是一款运行在 Android 系统上的网络代理工具。
 ## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIywLDSGlP6GDDb2QtWh5_2Fsurfboard_3.png" width="26" height="26" alt="Surfboard图标"> 获取Surfboard
 
 1. Surfboard官方电报群：[https://t.me/surfboardnews](https://t.me/surfboardnews)
-2. Google Play: [https://play.google.com/store/apps/details?id=com.getsurfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
-3. APKPure: [https://apkpure.com/surfboard/com.getsurfboard](https://apkpure.com/surfboard/com.getsurfboard)
-4. Github release: [https://github.com/getsurfboard/surfboard/releases/latest](https://github.com/getsurfboard/surfboard/releases/latest)
+2. APKPure: [https://apkpure.com/surfboard/com.getsurfboard](https://apkpure.com/surfboard/com.getsurfboard)
+3. Github release: [https://github.com/getsurfboard/surfboard/releases/latest](https://github.com/getsurfboard/surfboard/releases/latest)
 
 ## 添加订阅
 
@@ -26,7 +25,9 @@ Surfboard 是一款运行在 Android 系统上的网络代理工具。
 
 </div>
 
-## Surfboard 使用教程
+# Surfboard 使用教程
+
+## 配置订阅
 
 打开 Surfboard 主界面，切换到配置选项卡，点击右下方的添加订阅按钮，选择"从URL导入"，在弹出的输入框中粘贴转换好的订阅地址。点击导入后Surfboard将下载订阅链接。
 
