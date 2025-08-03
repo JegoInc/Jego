@@ -19,7 +19,9 @@ ClashBox暂未开源，请谨慎使用。
 
 **软件特色**
 
-ArkTS开发：前端部分使用ArkTS开发，更流畅，动效更丰富; 炫酷界面：使用HarmonyOS NEXT设计风格，采用类[Surfboard](surfboard)的UI排版设计，支持深色模式、模糊效果等，使用体验上更进一步； 
+ArkTS开发：前端部分使用ArkTS开发，更流畅，动效更丰富; 
+
+炫酷界面：使用HarmonyOS NEXT设计风格，采用类[Surfboard](surfboard)的UI排版设计，支持深色模式、模糊效果等，使用体验上更进一步； 
 
 多端适配：UI方面对手机、平板、折叠屏、鸿蒙电脑甚至PuraX外屏*都进行了适配； 
 
