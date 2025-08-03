@@ -72,7 +72,9 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 ### mihomo (Clash Meta) 懒人配置
 
-[https://gist.githubusercontent.com/proother/4d07f66bded8c9e8220837a3d3755837/raw/5b21789220a6f7615a5f87a322ecc1e8797d628e/config.yaml](https://gist.githubusercontent.com/proother/4d07f66bded8c9e8220837a3d3755837/raw/5b21789220a6f7615a5f87a322ecc1e8797d628e/config.yaml)
+```
+https://gist.githubusercontent.com/proother/4d07f66bded8c9e8220837a3d3755837/raw/8636e7bd63d26c3e9e9e65e9e171485b26e9cf2d/config.yaml
+```
 
 ## Mihomo订阅地址
 
