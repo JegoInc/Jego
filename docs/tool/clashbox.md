@@ -13,29 +13,37 @@ ClashBox/ClashNEXT是首个基于Navigation框架的HarmonyOS NEXT(OpenHarmony)�
 ClashBox暂未开源，请谨慎使用。
 :::
 
+::: info 已上架境外AppGallery 
+[https://appgallery.huawei.com/app/detail?id=org.xbgroup.clashbox](https://appgallery.huawei.com/app/detail?id=org.xbgroup.clashbox)
+:::
+
 **软件特色**
 
-* 💻原生开发：前端部分使用鸿蒙原生开发语言ArkTS开发，原生开发更流畅，动效更丰富;
-* ✨炫酷界面：使用HarmonyOS NEXT原生设计风格，采用类[Surfboard](https://github.com/getsurfboard/surfboard)的UI排版设计，支持深色模式、模糊效果等，使用体验上更进一步；
-* 📱多端适配：UI方面对手机、平板、折叠屏、鸿蒙电脑甚至PuraX外屏*都进行了适配；
-* 🚀稳定内核：采用广受好评的[Mihomo(ClashMeta)](https://github.com/MetaCubeX/mihomo)内核，功能基本对齐[Mihomo(ClashMeta)](https://github.com/MetaCubeX/mihomo)，稳定可靠；
-* 🔄核心恢复：由于HarmonyOS NEXT的后台调度机制尚不成熟，软件可能存在后台进程被系统关闭的情况，因此ClashBox内置了核心恢复功能，系统杀进程后将自动恢复核心进程（开启"后台运行-模拟画中画"后将自动启用本功能）。
-<img src="/images/clashbox_photo_2025-07-16_19-30-48.jpg" alt="ClashBox" width="297" heigh="640">
+ArkTS开发：前端部分使用ArkTS开发，更流畅，动效更丰富; 炫酷界面：使用HarmonyOS NEXT设计风格，采用类[Surfboard](surfboard)的UI排版设计，支持深色模式、模糊效果等，使用体验上更进一步； 
+
+多端适配：UI方面对手机、平板、折叠屏、鸿蒙电脑甚至PuraX外屏*都进行了适配； 
+
+稳定内核：采用广受好评的[Mihomo(ClashMeta)](mihomo)内核，功能基本对齐Mihomo(ClashMeta)，稳定可靠； 
+
+核心恢复：由于HarmonyOS NEXT的后台调度机制尚不成熟，软件可能存在后台进程被系统关闭的情况，因此ClashBox内置了核心恢复功能，系统杀进程后将自动恢复核心进程（开启“后台运行-模拟画中画”后将自动启用本功能）。
+
+<img src="/images/clashbox_photo_1.png" alt="ClashBox" width="300">
+
 ::: info 外屏说明
 PuraX外屏目前仅显示华为白名单内的App，在本软件获得白名单之前暂不可用。
 :::
 
-## <img src="/images/clashbox-logo.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
+## <img src="/images/clashbox-logo-new.png" width="26" height="26" alt="ClashBox图标"> 获取 ClashBox/ClashNEXT
 
 从华为应用市场换区下载
 
-* 另一台鸿蒙4.2在华为应用市场换区后 鸿蒙5.0登录华为应用市场搜索clashbox
+* 另一台鸿蒙4.2在华为应用市场换区后 鸿蒙5.0登录华为应用市场搜索[ClashBox](https://appgallery.huawei.com/app/detail?id=org.xbgroup.clashbox)
 
-* 侧载clashbox打开全局后选择香港节点，然后打开华为应用市场搜索clashbox
+* 侧载clashbox打开全局后选择香港节点，然后打开华为应用市场搜索[ClashBox](https://appgallery.huawei.com/app/detail?id=org.xbgroup.clashbox)
 
-* 下载[FlClash](flclash) 到卓易通然后开全局后选择香港节点，然后应用市场搜索clashbox
+* 下载[FlClash](flclash) 到卓易通然后开全局后选择香港节点，然后应用市场搜索[ClashBox](https://appgallery.huawei.com/app/detail?id=org.xbgroup.clashbox)
 
-* 重新注册一个华为港区账号，国内手机号即可注册。注册完毕后去设置退出原来的华为国区账号，换为新注册的香港区。最后去App Gallery搜索Clashbox
+* 重新注册一个华为港区账号，国内手机号即可注册。注册完毕后去设置退出原来的华为国区账号，换为新注册的香港区。最后去App Gallery搜索[ClashBox](https://appgallery.huawei.com/app/detail?id=org.xbgroup.clashbox)
 
 从Github库下载，然后使用开发者工具进行安装
 * Github下载：[https://github.com/xiaobaigroup/ClashBox/releases](https://github.com/xiaobaigroup/ClashBox/releases)
