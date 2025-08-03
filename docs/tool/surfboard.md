@@ -28,9 +28,9 @@ Surfboard 是一款运行在 Android 系统上的网络代理工具。
 
 打开 Surfboard 主界面，切换到配置选项卡，点击右下方的添加订阅按钮，选择"使用链接下载"，在弹出的输入框中粘贴转换好的订阅地址。点击下载，surfboard将下载订阅链接。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F787BLph6XQk70ClYunzK_2Fimage_2.png" alt="添加订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F787BLph6XQk70ClYunzK_2Fimage_2.png" alt="添加订阅" width="300">
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fm15CmW3mjtjPHNOvhNYz_2Fimage_3.png" alt="下载完成">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fm15CmW3mjtjPHNOvhNYz_2Fimage_3.png" alt="下载完成" width="300">
 
 需要更新订阅时，请长按订阅文件，在弹出的菜单中点击"检查更新"选项，Surfboard将会更新订阅链接。
 

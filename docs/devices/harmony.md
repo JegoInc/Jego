@@ -31,24 +31,24 @@ ClashBox/ClashNEXT 的安装条件非常硬核，需要华为开发者账户。
 
 ### 纯净模式->关闭增强保护
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FlOmPh9FmJQxTo1pm8Jsv_2FScreenshot_20250728_172057_com_android_settings_3.jpg" alt="纯净模式设置1"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FDveGgHccNfs6rbpP0MDI_2FScreenshot_20250728_172103_com_huawei_security_privacycenter_1.jpg" alt="纯净模式设置2">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FlOmPh9FmJQxTo1pm8Jsv_2FScreenshot_20250728_172057_com_android_settings_3.jpg" alt="纯净模式设置1" width="300"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FDveGgHccNfs6rbpP0MDI_2FScreenshot_20250728_172103_com_huawei_security_privacycenter_1.jpg" alt="纯净模式设置2" width="300">
 
 #### 安装 FlClash
 
 完整版教程请移步 [FlClash](/tool/flclash)
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FvB9dTjQXfG9lDK06rDTM_2FScreenshot_20250728_172648_com_huawei_appmarket_2.jpg" alt="FlClash安装1"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVEv5M4JTvd9MvEupS01U_2FScreenshot_20250728_172334_com_huawei_appmarket_3.jpg" alt="FlClash安装2">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FvB9dTjQXfG9lDK06rDTM_2FScreenshot_20250728_172648_com_huawei_appmarket_2.jpg" alt="FlClash安装1" width="300"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVEv5M4JTvd9MvEupS01U_2FScreenshot_20250728_172334_com_huawei_appmarket_3.jpg" alt="FlClash安装2" width="300">
 
 #### 启动 FlClash
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Ff2xMTCJIx7S7NuKXWdir_2FScreenshot_20250728_173020_com_android_vpndialogs_1.jpg" alt="FlClash启动1"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FyvqWWA3WTAf2uBGdMeYD_2FScreenshot_20250728_173808_com_follow_clash_2.jpg" alt="FlClash启动2">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Ff2xMTCJIx7S7NuKXWdir_2FScreenshot_20250728_173020_com_android_vpndialogs_1.jpg" alt="FlClash启动1" width="300"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FyvqWWA3WTAf2uBGdMeYD_2FScreenshot_20250728_173808_com_follow_clash_2.jpg" alt="FlClash启动2" width="300">
 
 #### 安装 sing-box for Android
 
 完整版教程请移步 [sing-box for Android](/tool/sing-boxforandroid)
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FyKRacwkMLGa4MTyzkLKF_2FScreenshot_20250728_173345_com_huawei_appmarket_3.jpg" alt="sing-box安装">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FyKRacwkMLGa4MTyzkLKF_2FScreenshot_20250728_173345_com_huawei_appmarket_3.jpg" alt="sing-box安装" width="300">
 
 #### 启动 sing-box
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FBQfwN7xlCao01P3bCfBM_2FScreenshot_20250728_173617_com_android_vpndialogs_1.jpg" alt="sing-box启动1"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fq5glu31ZimAgjcxXLi5E_2FScreenshot_20250728_173755_io_nekohasekai_sfa_2.jpg" alt="sing-box启动2">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FBQfwN7xlCao01P3bCfBM_2FScreenshot_20250728_173617_com_android_vpndialogs_1.jpg" alt="sing-box启动1" width="300"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fq5glu31ZimAgjcxXLi5E_2FScreenshot_20250728_173755_io_nekohasekai_sfa_2.jpg" alt="sing-box启动2" width="300">

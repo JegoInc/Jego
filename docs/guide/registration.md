@@ -9,7 +9,7 @@ description: 在你使用无忧行之前，您必须要了解的无忧行账户�
 
 1. 点击浏览器上无忧行的小图标，会弹出一个加载中的小窗口：
 
-![加载界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FSeKwJLjUwSpnUyyRMQW9_2Fimage_1.png)
+![加载界面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FSeKwJLjUwSpnUyyRMQW9_2Fimage_1.png )
 
 2. 加载完毕后，会出现下图的登录以及注册界面：
 

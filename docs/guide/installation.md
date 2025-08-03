@@ -81,7 +81,7 @@ description: 在你使用无忧行之前，您必须要了解的无忧行的安�
 
 2、打开QQ浏览器，点击右上角"**≡**"，再点击**应用中心**。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNu4OazcBbbAFfWuQgezF_2Fimage_2.png" alt="QQ浏览器应用中心">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FNu4OazcBbbAFfWuQgezF_2Fimage_2.png" alt="QQ浏览器应用中心" width="300">
 
 3、再点击管理我的应用，并在右上角勾选**开发者模式**。
 
@@ -97,7 +97,7 @@ description: 在你使用无忧行之前，您必须要了解的无忧行的安�
 
 2、打开360浏览器，点击右上角四个彩色方块的**图标**，再点击**管理**。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FgcDXVCfrl7t3dVK5jghY_2Fimage_2.png" alt="360浏览器管理界面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FgcDXVCfrl7t3dVK5jghY_2Fimage_2.png" alt="360浏览器管理界面" width="300">
 
 3、然后再次点击新页面右上角的**高级管理**
 

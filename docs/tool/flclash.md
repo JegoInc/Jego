@@ -19,9 +19,7 @@ FlClash是一款基于Mihomo（原ClashMeta）的开源多平台代理客户端�
 
 打开Github Release页面后，会看到很多安装包，不用紧张，根据你的操作系统下载和安装即可。
 
-
-
-![FlClash下载页面](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmV6rxFWJRr8WsZsZFpbr_2Fimage_3.png)
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmV6rxFWJRr8WsZsZFpbr_2Fimage_3.png" width="260">
 
 **下载说明：**
 
@@ -33,7 +31,7 @@ FlClash是一款基于Mihomo（原ClashMeta）的开源多平台代理客户端�
 
 ### 操作界面
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FW2zBR48roOx17y7sNV6x_2Fmobile_1.gif" alt="移动版本"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FOgxjjepQyUiBKRRpzqkt_2Fdesktop_2.gif" alt="桌面版本">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FW2zBR48roOx17y7sNV6x_2Fmobile_1.gif" alt="移动版本" width="300"> <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FOgxjjepQyUiBKRRpzqkt_2Fdesktop_2.gif" alt="桌面版本">
 
 ## 添加订阅
 

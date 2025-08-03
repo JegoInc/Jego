@@ -44,11 +44,11 @@ Clash for Android已于2023年11月3日下架。
 打开 Clash for Android ，依次进入 **配置** > **新配置** > **URL** 。 \
 在 URL 一栏中粘贴 Clash 配置订阅链接；自动更新 (分钟) 推荐填写 **1440** ，即每 24 小时自动从链接中更新配置文件。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fr3VUO5pTi3Lsxa5xPKFj_2Fimage_3.png" alt="配置界面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fr3VUO5pTi3Lsxa5xPKFj_2Fimage_3.png" alt="配置界面" width="300">
 
 完成后点击右上角的 **保存** 按钮，Clash for Android 将下载配置文件，请点击 **选中** 添加的配置文件。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fcxxf7sxonH8ugEyreooD_2Fimage_1.png" alt="保存配置">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fcxxf7sxonH8ugEyreooD_2Fimage_1.png" alt="保存配置" width="300">
 
 ## 开启代理
 
@@ -56,15 +56,15 @@ Clash for Android已于2023年11月3日下架。
 
 点击代理，在上方模式中选择对应节点即可。您亦可以选择相应应用，使用对应的代理节点。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4RjUE6nSLiUqpSjeX7Pu_2Fimage_2.png" alt="开启代理">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4RjUE6nSLiUqpSjeX7Pu_2Fimage_2.png" alt="开启代理" width="300">
 
 ## 选择代理模式
 
 前往 App 主页，轻点「代理 / Proxy」>「┇」>「模式 / Mode」，根据您的需求选择代理模式。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKgx0JHC9I5UfcSThfdKI_2Fimage_3.png" alt="第一步">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FKgx0JHC9I5UfcSThfdKI_2Fimage_3.png" alt="第一步" width="300">
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FdJ4k00uXfskraienxjBw_2Fimage_1.png" alt="第二步">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FdJ4k00uXfskraienxjBw_2Fimage_1.png" alt="第二步" width="300">
 
 ### **规则 / Rule：只代理国外流量**
 

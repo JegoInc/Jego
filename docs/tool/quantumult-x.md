@@ -36,17 +36,17 @@ Quantumult X是iOS上一款功能强大的网络工具。
 
 </div>
 
-打开 **Quantumult X**，打开App，点击**右下角图标** <img src="https://file.olo4.com/unpanel/quantumult%20x%20setup.jpg" alt="quantumult_x_setup">
+打开 **Quantumult X**，打开App，点击**右下角图标** <img src="https://file.olo4.com/unpanel/quantumult%20x%20setup.jpg" alt="quantumult_x_setup" width="300">
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FTYLTzRrBAtQzw9mgGxzK_2Fimage_3.png" alt="Quantumult X界面">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FTYLTzRrBAtQzw9mgGxzK_2Fimage_3.png" alt="Quantumult X界面" width="300">
 
 点击**引用 (订阅)**
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F97V2k4pLgEOedDsWg1Vm_2Fimage_1.png" alt="引用订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F97V2k4pLgEOedDsWg1Vm_2Fimage_1.png" alt="引用订阅" width="300">
 
 点击右上角的**新增图标**
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuk1yuYNiBlEaMsKoAONI_2Fimage_2.png" alt="新增图标">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2Fuk1yuYNiBlEaMsKoAONI_2Fimage_2.png" alt="新增图标" width="300">
 
 粘贴刚刚复制的"订阅地址" ， 轻点右上角 "确定"。最后看到导入成功的弹窗，再点击"确定"。
 
@@ -62,4 +62,4 @@ Quantumult X是iOS上一款功能强大的网络工具。
 * 彩色图标代表**规则分流**，即客户端根据配置文件的规则集自动判断是否需要代理网络数据，**推荐切换到此模式使用**。
 * 蓝色图标代表**全部代理**，即所有流量都要经过代理中转，该模式只推荐在规则分流不能使用时再用，否则会消耗过多流量，并导致国内部分站点不能正常访问。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmHZ6WRyt5hJsKl3g3SUI_2Fimage_3.png" alt="代理模式">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FmHZ6WRyt5hJsKl3g3SUI_2Fimage_3.png" alt="代理模式" width="300">

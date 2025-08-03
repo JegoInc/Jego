@@ -42,25 +42,25 @@ description: Loon是一个集网络代理、网络调试、网络改写等一系
 
 进入Loon ，按照 **Profile** -> **All Nodes** -> :heavy_plus_sign:  的路径点击点击到如下图所示，把复制好的订阅地址粘贴到地址栏，同时填写名字，最后点击右上角的确认按钮完成添加。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEYFUwKu3KY9d1JL8NVE2_2Fimage_1.png" alt="添加订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEYFUwKu3KY9d1JL8NVE2_2Fimage_1.png" alt="添加订阅" width="300">
 
 ### 更新订阅
 
 请按照 **Profile** -> **All Nodes** 的路径，找到如下图所示的更新按钮，点击更新，确保无忧行订阅处于最新状态。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIhCrOe98FALWFYmAurzq_2Fimage_2.png" alt="更新订阅">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FIhCrOe98FALWFYmAurzq_2Fimage_2.png" alt="更新订阅" width="300">
 
 ## **连接服务器**
 
 点击Loon首页右上角的开关连接服务器。首次启动时会请求 VPN 权限，需要点击确定允许。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FxLdRMzAXNoPRs46OFvAY_2Fimage_3.png" alt="连接服务器">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FxLdRMzAXNoPRs46OFvAY_2Fimage_3.png" alt="连接服务器" width="300">
 
 ## 流量模式的选择
 
 点击首页右上角LOON下方的小字，点后会展示如下图所示流量的模式，可以选择
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FpJrQaTyQ0miteU5xrNGH_2Fimage_1.png" alt="流量模式">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FpJrQaTyQ0miteU5xrNGH_2Fimage_1.png" alt="流量模式" width="300">
 
 * Global Direct （全局直连，相当于都不走代理）
 * Rule Base（基于规则选择性的直连和代理）

@@ -43,17 +43,17 @@ OneClick是一款免费的支持主流加密协议的上网工具。
 
 进入OneClick，点击右上角的"+"按钮，进入添加服务器界面，点击"添加订阅"按钮，把复制好的订阅地址粘贴到地址栏，同时填写备注信息，最后点击右上角的确认按钮完成添加。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FWm6CG03AfjzAkGt3RHPJ_2Fimage_1.png" alt="添加订阅1">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FWm6CG03AfjzAkGt3RHPJ_2Fimage_1.png" alt="添加订阅1" width="300">
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FtTr0wTQ6k14eJ1gwqgsE_2Fimage_2.png" alt="添加订阅2">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FtTr0wTQ6k14eJ1gwqgsE_2Fimage_2.png" alt="添加订阅2" width="300">
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F1VpSCcwkjZkhUnrauDAZ_2Fimage_3.png" alt="添加订阅3">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F1VpSCcwkjZkhUnrauDAZ_2Fimage_3.png" alt="添加订阅3" width="300">
 
 ## **选择服务器**
 
 进入OneClick首页，点击服务器选择按钮，进入服务器列表界面，选择需要连接的服务器
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVg9Odr50e7St5quFjRHj_2Fimage_1.png" alt="选择服务器">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVg9Odr50e7St5quFjRHj_2Fimage_1.png" alt="选择服务器" width="300">
 
 ## **选择代理模式**
 
@@ -67,4 +67,4 @@ OneClick提供自动、全局、直连模式，点击选择指定模式。
 
 点击OneClick首页连接按钮，连接服务器。首次启动时会请求 VPN 权限，需要点击确定允许。
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjHJ6f1fmiDH7wANQRtRL_2Fimage_2.png" alt="连接服务器">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjHJ6f1fmiDH7wANQRtRL_2Fimage_2.png" alt="连接服务器" width="300">
