@@ -84,9 +84,9 @@ MIT License
 
 The best free proxy tool designed for Edge and Chrome browsers, capable of safely and efficiently bypassing firewalls (proxy), easily accessing global websites. It's simple to use, efficient and secure.
 
-## JegoVPN - User Guide
+## Jego - User Guide
 
-This is the user guide website for JegoVPN service, built with VitePress.
+This is the user guide website for Jego service, built with VitePress.
 
 ### 📖 Website Content
 

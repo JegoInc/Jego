@@ -27,7 +27,7 @@ Jego will take over your Edge proxy settings. When first installed, Edge will re
 
 ### Manual Installation
 
-First go to the Jego official website: [https://www.jegocloud.com/zh/](https://jegocloud.com/zh/), and download the `CRX installation package` provided by the official website, extract it and prepare the CRX file.
+First go to the Jego official website: [https://www.jegocloud.com/](https://jegocloud.com/), and download the `CRX installation package` provided by the official website, extract it and prepare the CRX file.
 
 ➊ Enter `edge://extensions/` in Edge browser
 
@@ -50,7 +50,7 @@ First upgrade Chrome to the latest version.
 
 ### Manual Installation
 
-First go to the Jego official website: [https://www.jegocloud.com/zh/](https://jegocloud.com/zh/), and download the `CRX installation package` provided by the official website, extract it and prepare the CRX file.
+First go to the Jego official website: [https://www.jegocloud.com/](https://jegocloud.com/), and download the `CRX installation package` provided by the official website, extract it and prepare the CRX file.
 
 ➊ Enter `chrome://extensions/` in Chrome browser
 
