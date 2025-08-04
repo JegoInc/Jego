@@ -20,7 +20,7 @@ For tutorials on implementing proxy access on PC and mobile, please go to [How t
 
 Click the <span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">Enable</span> button on the small window to enable proxy mode, limitedly break through some blocks, <span style="color:orange;">only can access Google, Wikipedia, New Bing and ChatGPT</span>;
 
-Click the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Disable</span> button to disable proxy mode.
+Click the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Off</span> button to disable proxy mode.
 
 ## How to achieve one-click proxy in browser?
 
@@ -32,7 +32,7 @@ Click the <span style="background-color:green; color:white; padding:2px 6px; bor
 
 Click the <span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">Rules</span> button on the small window to enable rules mode for access. Accessing any website will first go through rules to determine whether to access directly or through proxy. You can set mainland websites to direct connection, and overseas blocked websites to access through proxy servers, enjoying free and high-speed surfing.
 
-Click the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Disable</span> button to disable proxy mode.
+Click the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Off</span> button to disable proxy mode.
 
 ### Daily usage notes:
 

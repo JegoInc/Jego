@@ -14,7 +14,7 @@ When your Jego is in the state shown in the figure above, it means you are using
 
 <span style="color:green;">V 1.3.20 version latest feature:</span>
 
-| When enabled | When disabled |
+| Enabled | Off |
 | --- | --- |
 | ![Enabled icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![Disabled icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
 
