@@ -73,6 +73,11 @@ Then return to the dashboard: **select Rule for outbound mode**, **turn on virtu
 
 ## Node Selection
 
+::: info Proxy Interface Bug - Restart is the Solution
+<img src="/images/FlClash-Config.png" alt="Proxy Selection">
+If you encounter an issue where the proxy interface only shows configuration files (without displaying node servers), this is a FlClash interface bug that occurs when adding configuration for the first time. Simply restart FlClash to resolve this issue.
+:::
+
 Click on Proxy: Choose according to your actual situation.
 
 Note: Low latency doesn't mean fast speed, high latency doesn't mean slow speed, feel it yourself.

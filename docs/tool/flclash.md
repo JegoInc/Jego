@@ -59,6 +59,8 @@ FlClash是一款基于Mihomo（原ClashMeta）的开源多平台代理客户端�
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FSUZB0uhm5ulHogGxgLEG_2Fimage_3.png" alt="更新配置">
 
+点击配置文件右上角 **三个点 -> 同步** 就是更新订阅文件的意思。
+
 ## 开启代理
 
 然后回到仪表盘：**出站模式选规则**，**虚拟网卡打开**，然后点击**右下角的开始**。
@@ -73,6 +75,11 @@ FlClash是一款基于Mihomo（原ClashMeta）的开源多平台代理客户端�
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEwI9BEZZXjF4t3HaMnab_2Fimage_2.png" alt="成功运行中">
 
 ## 节点选择
+
+::: info 代理界面BUG - 重启大法好
+<img src="/images/FlClash-Config.png" alt="代理选择">
+如遇到代理界面只显示配置文件（不显示节点服务器），这是第一次添加配置时FlClash的界面BUG，重启FlClash就好了。
+:::
 
 点击代理：根据自己实际情况来选择。
 
