@@ -46,7 +46,7 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 [Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
+[Clash Verge Rev](/tool/clashverge)是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
 
 [Clash N](https://github.com/2dust/clashN) 是v2rayN的作者开发的基于Mihomo核心的翻墙客户端，同样是简单易用。
 

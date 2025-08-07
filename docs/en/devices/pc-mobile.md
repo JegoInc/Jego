@@ -48,9 +48,9 @@ The following list does not represent the position and views of the Jego team.
 **Recommended**
 
 * iOS iPadOS: [Surge](/en/tool/surge), [sing-box](/en/tool/sing-boxforapple), [Shadowrocket](/en/tool/shadowrocket)
-* macOS: [Surge](/en/tool/surge), [FlClash](/en/tool/flclash), [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases), [sing-box](/en/tool/sing-boxforapple), [Shadowrocket](/en/tool/shadowrocket)
+* macOS: [Surge](/en/tool/surge), [FlClash](/en/tool/flclash), [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases), [sing-box](/en/tool/sing-boxforapple), [Shadowrocket](/en/tool/shadowrocket), [Clash Verge Rev](/en/tool/clashverge)
 * Android: [FlClash](/en/tool/flclash), [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases), [sing-box](/en/tool/sing-boxforandroid)
-* Windows: [FlClash](/en/tool/flclash), [sing-box](/en/tool/guiforsing-box)
+* Windows: [FlClash](/en/tool/flclash), [sing-box](/en/tool/guiforsing-box), [Clash Verge Rev](/en/tool/clashverge)
 
 **Not Recommended**
 

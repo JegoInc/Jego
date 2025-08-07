@@ -46,7 +46,7 @@ Note: There are currently no good iOS products in the Mihomo ecosystem
 
 [Mihomo Party](https://mihomo.party/) is a proxy bypass client using Mihomo core, simpler and easier to use.
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) is a proxy client based on Mihomo kernel, with a clean and beautiful user interface.
+[Clash Verge Rev](/en/tool/clashverge) is a proxy client based on Mihomo kernel, with a clean and beautiful user interface.
 
 [Clash N](https://github.com/2dust/clashN) is a bypass client based on Mihomo core developed by the author of v2rayN, also simple and easy to use.
 

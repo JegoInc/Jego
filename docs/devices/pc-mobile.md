@@ -48,9 +48,9 @@ description: 无忧行的订阅节点服务（大陆用户通常称之为"机场
 **推荐的**
 
 * iOS iPadOS：[Surge](/tool/surge)、[sing-box](/tool/sing-boxforapple)、[Shadowrocket](/tool/shadowrocket)
-* macOS：[Surge](/tool/surge)、[FlClash](/tool/flclash)、[ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases)、[sing-box](/tool/sing-boxforapple)、[Shadowrocket](/tool/shadowrocket)
+* macOS：[Surge](/tool/surge)、[FlClash](/tool/flclash)、[ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases)、[sing-box](/tool/sing-boxforapple)、[Shadowrocket](/tool/shadowrocket)、[Clash Verge Rev](/tool/clashverge)
 * Android：[FlClash](/tool/flclash)、[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)、[sing-box](/tool/sing-boxforandroid)
-* Windows：[FlClash](/tool/flclash)、[sing-box](/tool/guiforsing-box)
+* Windows：[FlClash](/tool/flclash)、[sing-box](/tool/guiforsing-box)、[Clash Verge Rev](/tool/clashverge)
 
 **不推荐的**
 
