@@ -52,7 +52,7 @@ In the popup new configuration window, the **Type** defaults to `Remote`, **Name
 
 <img src="/images/screenshot-20250807-121847.png" alt="Edit Configuration">
 
-Right-click on the Jego **subscription card**, select **Update** to pull the subscription to local. After successful operation, a green reminder will appear in the top-right corner: **Subscription Update Successful**.
+Click the **refresh icon** in the top-right corner of the Jego **subscription card** to pull the subscription to local. After successful operation, a green reminder will appear in the top-right corner as shown in the image below: **Subscription Update Successful**.
 
 <img src="/images/screenshot-20250807-121933.png" alt="Update Subscription">
 
