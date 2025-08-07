@@ -17,6 +17,10 @@ Microsoft Windows，通称Windows操作系统，是微软以图形用户界面�
 
 FlClash是一款基于Mihomo（原ClashMeta）的多平台代理客户端，简单易用，开源无广告。
 
+<img src="/images/clashvergelogo.png" width="26" height="26" alt="Clash Verge Rev"> [Clash Verge Rev](/tool/clashverge)
+
+Clash Verge Rev是一款基于Mihomo（原ClashMeta）内核的多平台代理客户端，并支持切换 Alpha 版本内核。简洁美观的用户界面，支持自定义主题颜色。
+
 ---
 
 #### 下列软件推荐但门槛较高：

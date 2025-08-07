@@ -25,5 +25,9 @@ FlClash是一款基于Mihomo（原ClashMeta）的多平台代理客户端，简�
 
 MetaCubeX基于Clash核心推出的全新的Mihomo内核，团队持续地在开源社区维护和更新，生态链里已经推出了包含Windows、Andriod、macOS和Linux的客户端。
 
+<img src="/images/clashvergelogo.png" width="26" height="26" alt="Clash Verge Rev"> [Clash Verge Rev](/tool/clashverge)
+
+Clash Verge Rev是一款基于Mihomo（原ClashMeta）内核的多平台代理客户端，并支持切换 Alpha 版本内核。简洁美观的用户界面，支持自定义主题颜色。
+
 
 

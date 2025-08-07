@@ -29,6 +29,10 @@ Surge is a powerful network proxy tool on Apple platforms, known for its stable 
 
 Shadowrocket is a fully-featured iOS/iPadOS proxy tool client that supports most common connection protocols.
 
+<img src="/images/clashvergelogo.png" width="26" height="26" alt="Clash Verge Rev"> [Clash Verge Rev](/en/tool/clashverge)
+
+Clash Verge Rev is a multi-platform proxy client based on Mihomo (formerly ClashMeta) kernel, supporting Alpha version kernel switching. Clean and beautiful user interface with customizable theme colors.
+
 ---
 
 #### The following software works but is not recommended:

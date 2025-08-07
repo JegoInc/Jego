@@ -82,8 +82,9 @@ export default defineConfig({
             text: '工具软件',
             items: [
               { text: 'Mihomo系列软件', link: '/tool/mihomo' },
-              { text: 'sing-box', link: '/tool/sing-box' },
               { text: 'FlClash', link: '/tool/flclash' },
+              { text: 'Clash Verge Rev', link: '/tool/clashverge' },
+              { text: 'sing-box', link: '/tool/sing-box' },
               { text: 'sing-box for Android', link: '/tool/sing-boxforandroid' },
               { text: 'sing-box for Apple', link: '/tool/sing-boxforapple' },
               { text: 'GUI.for.SingBox', link: '/tool/guiforsing-box' },
@@ -173,8 +174,9 @@ export default defineConfig({
             text: 'Tools & Software',
             items: [
               { text: 'Mihomo Series', link: '/en/tool/mihomo' },
-              { text: 'sing-box', link: '/en/tool/sing-box' },
               { text: 'FlClash', link: '/en/tool/flclash' },
+              { text: 'Clash Verge Rev', link: '/en/tool/clashverge' },
+              { text: 'sing-box', link: '/en/tool/sing-box' },
               { text: 'sing-box for Android', link: '/en/tool/sing-boxforandroid' },
               { text: 'sing-box for Apple', link: '/en/tool/sing-boxforapple' },
               { text: 'GUI.for.SingBox', link: '/en/tool/guiforsing-box' },

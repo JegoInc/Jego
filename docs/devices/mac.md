@@ -29,6 +29,11 @@ Surge是一款Apple平台里功能强大的网络代理工具，以其稳定的�
 
 Shadowrocket 是一个功能齐全的 iOS/iPadOS 代理工具客戶端，支持大多数常见的连接协议。
 
+<img src="/images/clashvergelogo.png" width="26" height="26" alt="Clash Verge Rev"> [Clash Verge Rev](/tool/clashverge)
+
+Clash Verge Rev是一款基于Mihomo（原ClashMeta）内核的多平台代理客户端，并支持切换 Alpha 版本内核。简洁美观的用户界面，支持自定义主题颜色。
+
+
 ---
 
 #### 下列软件能用但不推荐：

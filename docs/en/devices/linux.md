@@ -23,4 +23,8 @@ FlClash is a multi-platform proxy client based on Mihomo (formerly ClashMeta), s
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfJY0Si3bowLOO8nIXwPG_2Fmihomo_3.png" width="26" height="26" alt="Mihomo icon"> [Mihomo Series Software](/en/tool/mihomo)
 
-MetaCubeX launched the new Mihomo kernel based on Clash core, the team continuously maintains and updates in the open source community, and the ecosystem has launched clients including Windows, Android, macOS and Linux. 
+MetaCubeX launched the new Mihomo kernel based on Clash core, the team continuously maintains and updates in the open source community, and the ecosystem has launched clients including Windows, Android, macOS and Linux.
+
+<img src="/images/clashvergelogo.png" width="26" height="26" alt="Clash Verge Rev"> [Clash Verge Rev](/en/tool/clashverge)
+
+Clash Verge Rev is a multi-platform proxy client based on Mihomo (formerly ClashMeta) kernel, supporting Alpha version kernel switching. Clean and beautiful user interface with customizable theme colors. 
