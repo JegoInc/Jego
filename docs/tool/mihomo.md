@@ -36,6 +36,8 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 [FlClash](flclash) 基于Mihomo的多平台代理客户端，简单易用，开源免费无广告，支持Windows, macOS, Android, Linux。
 
+[Clash Verge Rev](/tool/clashverge) 基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
+
 ---
 
 ### 下列软件能用但不推荐：
@@ -46,8 +48,6 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 [Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
 
-[Clash Verge Rev](/tool/clashverge)是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
-
 [Clash N](https://github.com/2dust/clashN) 是v2rayN的作者开发的基于Mihomo核心的翻墙客户端，同样是简单易用。
 
 ### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS图标"> macOS
@@ -56,8 +56,6 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 
 [Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
-
 [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) 旨在提供一个简单轻量化的代理客户端。
 
 ### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux图标"> Linux
@@ -65,8 +63,6 @@ Mihomo支持广泛的代理协议，可以满足多数用户的需求。支持�
 [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) 是一个使用Mihomo核心的翻墙客户端，基于tarui开发。界面简单，操作友好。
 
 [Mihomo Party](https://mihomo.party/) 是一个使用Mihomo核心，简单更易用的代理翻墙客户端。
-
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于Mihomo内核的代理客户端， 操作界面简洁美观的用户界面。
 
 ### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android图标"> Android
 

@@ -36,6 +36,8 @@ Note: There are currently no good iOS products in the Mihomo ecosystem
 
 [FlClash](/en/tool/flclash) Multi-platform proxy client based on Mihomo, simple to use, open source free and ad-free, supports Windows, macOS, Android, Linux.
 
+[Clash Verge Rev](/en/tool/clashverge) is a proxy client based on Mihomo kernel, with a clean and beautiful user interface.
+
 ---
 
 ### The Following Software Can Be Used But Not Recommended:
@@ -46,7 +48,6 @@ Note: There are currently no good iOS products in the Mihomo ecosystem
 
 [Mihomo Party](https://mihomo.party/) is a proxy bypass client using Mihomo core, simpler and easier to use.
 
-[Clash Verge Rev](/en/tool/clashverge) is a proxy client based on Mihomo kernel, with a clean and beautiful user interface.
 
 [Clash N](https://github.com/2dust/clashN) is a bypass client based on Mihomo core developed by the author of v2rayN, also simple and easy to use.
 
@@ -56,8 +57,6 @@ Note: There are currently no good iOS products in the Mihomo ecosystem
 
 [Mihomo Party](https://mihomo.party/) is a proxy bypass client using Mihomo core, simpler and easier to use.
 
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) is a proxy client based on Mihomo kernel, with a clean and beautiful user interface.
-
 [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) aims to provide a simple and lightweight proxy client.
 
 ### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux icon"> Linux
@@ -65,8 +64,6 @@ Note: There are currently no good iOS products in the Mihomo ecosystem
 [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) is a bypass client using Mihomo core, developed based on tarui. Simple interface, user-friendly operation.
 
 [Mihomo Party](https://mihomo.party/) is a proxy bypass client using Mihomo core, simpler and easier to use.
-
-[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) is a proxy client based on Mihomo kernel, with a clean and beautiful user interface.
 
 ### <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android icon"> Android
 
