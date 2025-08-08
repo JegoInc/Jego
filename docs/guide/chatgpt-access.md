@@ -17,7 +17,7 @@ description: 如何用正确的姿势在中国大陆解锁New Bing、Copilot或�
 <span style="color:red;">解锁ChatGPT和New Bing无需设置代理策略。</span>
 :::
 
-2️⃣ **第二步**，无忧行插件的模式处于`[全局]`和`[规则]`均可，服务器节点可以随意选择：
+2️⃣ **第二步**，无忧行插件的模式处于<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">全局</span>或者<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">规则</span>均可，服务器节点可以随意选择：
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FkeJOr6KeXyIxonlfJZdU_2Fimage_1.png" alt="无忧行" width="280">
 

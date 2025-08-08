@@ -17,7 +17,7 @@ description: How to properly access New Bing, Copilot or ChatGPT in mainland Chi
 <span style="color:red;">No proxy strategy setup is required to access ChatGPT and New Bing.</span>
 :::
 
-2️⃣ **Step 2**, Jego extension mode can be either `[Global]` or `[Rules]`, and server nodes can be selected freely:
+2️⃣ **Step 2**, Jego extension mode can be either <span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">Global</span> or <span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">Rules</span>, and server nodes can be selected freely:
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FkeJOr6KeXyIxonlfJZdU_2Fimage_1.png" alt="Jego" width="280" />
 
