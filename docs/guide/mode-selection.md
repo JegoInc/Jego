@@ -24,7 +24,7 @@ title: 模式选择 - 使用指南
 
 ### 关闭
 
-当你点击关闭（即`关闭`按钮为选中状态），就代表着你关闭了浏览器的代理功能，访问任意网址都将使用你本地网络直接访问（此时无法访问Google、维基百科、New Bing以及ChatGPT的服务）。
+当你点击关闭（即<span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">关闭</span>按钮为选中状态），就代表着你关闭了浏览器的代理功能，访问任意网址都将使用你本地网络直接访问（此时无法访问Google、维基百科、New Bing以及ChatGPT的服务）。
 
 ## 🏆付费版
 
@@ -52,5 +52,5 @@ title: 模式选择 - 使用指南
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FISwY5XX4FX2qker0nOYC_2Fimage_3.png" alt="关闭模式界面" width="280">
 
-当你的无忧行处于上图所示的状态（即`关闭`按钮为选中状态），就代表着你关闭了浏览器的代理功能，访问任意网址都将使用你本地网络直接访问（此时无法访问境外境外被屏蔽的网站）。
+当你的无忧行处于上图所示的状态（即<span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">关闭</span>按钮为选中状态），就代表着你关闭了浏览器的代理功能，访问任意网址都将使用你本地网络直接访问（此时无法访问境外境外被屏蔽的网站）。
 

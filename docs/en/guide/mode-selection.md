@@ -24,7 +24,7 @@ When your Jego is in the state shown in the figure above (i.e., the <span style=
 
 ### Off
 
-When you click Off (i.e., the `Off` button is selected), it means you have turned off the browser's proxy function. Accessing any website will use your local network for direct access (at this time you cannot access Google, Wikipedia, New Bing and ChatGPT services).
+When you click Off (i.e., the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Off</span> button is selected), it means you have turned off the browser's proxy function. Accessing any website will use your local network for direct access (at this time you cannot access Google, Wikipedia, New Bing and ChatGPT services).
 
 ## 🏆 Paid Version
 
@@ -52,4 +52,4 @@ When your Jego is in the state shown in the figure above (i.e., the <span style=
 
 ![Disabled mode interface](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FISwY5XX4FX2qker0nOYC_2Fimage_3.png)
 
-When your Jego is in the state shown in the figure above (i.e., the `Off` button is selected), it means you have turned off the browser's proxy function. Accessing any website will use your local network for direct access (at this time you cannot access overseas blocked websites). 
+When your Jego is in the state shown in the figure above (i.e., the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Off</span> button is selected), it means you have turned off the browser's proxy function. Accessing any website will use your local network for direct access (at this time you cannot access overseas blocked websites). 
