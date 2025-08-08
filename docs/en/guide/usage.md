@@ -42,11 +42,12 @@ Click the <span style="background-color:grey; color:white; padding:2px 6px; bord
 
 * When you select nodes or modes, the Jego logo at the top will turn into a small circle, indicating that your request is being processed (as shown in the figure below), please be patient and continue waiting;
 
-![Be patient, continue waiting](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEPZl6HpdHgrDpHRkosCo_2Fimage_1.png)
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEPZl6HpdHgrDpHRkosCo_2Fimage_1.png" alt="Be patient, continue waiting" width="280">
 
 * Only when the small circle at the top of the extension small window turns into the Jego logo does it mean your settings have been successfully processed (as shown in the figure below).
 
-![Success](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png)
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png" alt="Success" width="280">
+
 
 ---
 
