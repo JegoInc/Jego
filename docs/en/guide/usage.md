@@ -48,9 +48,6 @@ Click the <span style="background-color:grey; color:white; padding:2px 6px; bord
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png" alt="Success" width="280">
 
-
----
-
 ::: info Related Links
 [How to properly access ChatGPT and New Bing in mainland China](/en/guide/chatgpt-access)
 :::

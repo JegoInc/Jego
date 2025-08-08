@@ -48,8 +48,6 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png" alt="成功" width="280">
 
----
-
 ::: info 相关链接
 [如何用正确的姿势在中国大陆解锁ChatGPT和New Bing](/guide/chatgpt-access)
 :::
