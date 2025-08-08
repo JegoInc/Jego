@@ -19,7 +19,7 @@ description: How to properly access New Bing, Copilot or ChatGPT in mainland Chi
 
 2️⃣ **Step 2**, Jego extension mode can be either `[Global]` or `[Rules]`, and server nodes can be selected freely:
 
-<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FkeJOr6KeXyIxonlfJZdU_2Fimage_1.png" alt="Jego">
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FkeJOr6KeXyIxonlfJZdU_2Fimage_1.png" alt="Jego" width="280" />
 
 ✅ **Success**, you have successfully completed the unlocking of `Bing`, `Copilot` and `ChatGPT`:
 
