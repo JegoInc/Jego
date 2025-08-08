@@ -14,17 +14,21 @@ For tutorials on implementing proxy access on PC and mobile, please go to [How t
 
 ## How to use proxy for free in browser?
 
-`Use Jego extension, register an account to proxy for free!`
+Use Jego extension, register an account to proxy for free!
 
 ![Free version proxy](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjlY9kf0MMYiw6POXkNyC_2Fimage_2.png)
 
-Click the <span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">Enable</span> button on the small window to enable proxy mode, limitedly break through some blocks, <span style="color:orange;">only can access Google, Wikipedia, New Bing and ChatGPT</span>;
+Click the <span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">Enable</span> button on the small window to enable proxy mode, limitedly break through some blocks, <span style="color:orange;">only can access Google, Wikipedia, New Bing,ChatGPT, Grok and Claude</span>;
 
 Click the <span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">Off</span> button to disable proxy mode.
 
+::: info Related Links
+Jego provides three types of services: [Free, Limited-time Trial, and Paid Services](/en/guide/services)
+:::
+
 ## How to achieve one-click proxy in browser?
 
-`Use Jego extension, become a member to get unlimited traffic and seamless global internet access experience.`
+Use Jego extension, **become a member to get unlimited traffic and seamless global internet access experience**.
 
 ![Member proxy can access any website](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfbQg0ayrr74bF0hLZJF3_2Fimage_3.png)
 

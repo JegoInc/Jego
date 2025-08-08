@@ -14,17 +14,21 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 ## 如何在浏览器里免费翻墙？
 
-`使用无忧行插件，注册个账户就能免费翻墙！`
+使用无忧行插件，注册个账户就能免费翻墙！
 
 ![免费版翻墙](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjlY9kf0MMYiw6POXkNyC_2Fimage_2.png)
 
-点击小窗上的<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">开启</span>按钮，即可开启代理模式，有限地突破部分封锁，<span style="color:orange;">仅能访问谷歌、维基百科、New Bing以及ChatGPT</span>；
+点击小窗上的<span style="background-color:green; color:white; padding:2px 6px; border-radius:3px;">开启</span>按钮，即可开启代理模式，有限地突破部分封锁，<span style="color:orange;">仅能访问Google、Wikipedia、New Bing、ChatGPT、Grok、Claude</span>；
 
 点击<span style="background-color:grey; color:white; padding:2px 6px; border-radius:3px;">关闭</span>按钮即关闭了代理模式。
 
+::: info 相关链接
+无忧行共提供三种服务，分别是：[免费、限时体验以及付费服务](/guide/services)
+:::
+
 ## 如何在浏览器里实现一键翻墙？
 
-`使用无忧行插件，成为会员就能获得无限流量、畅通无阻的全球互联网访问体验。`
+使用无忧行插件，**成为会员就能获得无限流量**、畅通无阻的全球互联网访问体验。
 
 ![会员翻墙后可访问任意网址](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FfbQg0ayrr74bF0hLZJF3_2Fimage_3.png)
 
