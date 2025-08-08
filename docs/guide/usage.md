@@ -38,11 +38,11 @@ description: 使用无忧行在浏览器里翻墙非常简单，点一下就翻�
 
 * 当你选择节点或者模式时，顶部的无忧行LOGO会变成小圆圈，代表正在处理你的请求（如下图所示），请保持耐心，继续等待；
 
-![保持耐心，继续等待](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEPZl6HpdHgrDpHRkosCo_2Fimage_1.png)
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FEPZl6HpdHgrDpHRkosCo_2Fimage_1.png" alt="保持耐心，继续等待" width="280">
 
 * 直到插件小窗口顶部的小圆圈变成无忧行的LOGO之后，才代表你的设置被成功处理完毕（如下图所示）。
 
-![成功](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png)
+<img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FjJaTdcf57Qe8ztpIXKGl_2Fimage_2.png" alt="成功" width="280">
 
 ---
 
