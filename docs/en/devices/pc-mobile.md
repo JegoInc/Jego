@@ -13,29 +13,14 @@ To help you get started quickly, we provide beginner guides for various network 
 For in-depth research, please search for related video tutorials on YouTube yourself.
 :::
 
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android icon"> **Android Devices**
-
-* [How to Use Proxy on Android](/en/devices/android)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7GBp8VQdHNWWH3aalDTP_2Fios_3.svg" width="38" height="28" alt="iOS icon"> **iOS/iPadOS Devices**
-
-* [How to Use Proxy on iPhone/iPad](/en/devices/ios)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows icon"> Windows PC **Devices**
-
-* [How to Use Proxy on Windows PC](/en/devices/windows)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS icon"> **macOS Devices**
-
-* [How to Use Proxy on Mac](/en/devices/mac)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux icon"> Linux Devices
-
-* [How to Use Proxy on Linux PC](/en/devices/linux)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS icon"> HarmonyOS (鸿蒙) Devices
-
-* [How to Use Proxy on Huawei Harmony OS](/en/devices/harmony)
+| Platform | Devicies | Guideline |
+| --- | --- | --- |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android icon"> | **Android Devices** | [How to Use Proxy on Android](/en/devices/android) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7GBp8VQdHNWWH3aalDTP_2Fios_3.svg" width="38" height="28" alt="iOS icon"> | **iOS/iPadOS Devices** | [How to Use Proxy on iPhone/iPad](/en/devices/ios) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows icon"> | **Windows PC Devices** | [How to Use Proxy on Windows PC](/en/devices/windows) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS icon"> | **macOS Devices** | [How to Use Proxy on Mac](/en/devices/mac) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux icon"> | **Linux Devices** | [How to Use Proxy on Linux PC](/en/devices/linux) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS icon"> | **HarmonyOS (鸿蒙) Devices** | [How to Use Proxy on Huawei Harmony OS](/en/devices/harmony) |
 
 ## Common Questions
 

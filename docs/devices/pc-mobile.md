@@ -13,29 +13,14 @@ description: 无忧行的订阅节点服务（大陆用户通常称之为"机场
 如想深入研究还请自行在YouTube上搜索相关的视频教程。
 :::
 
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="Android图标"> **Android 设备**
-
-* [安卓手机怎么翻墙](/devices/android)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7GBp8VQdHNWWH3aalDTP_2Fios_3.svg" width="38" height="28" alt="iOS图标"> **iOS/iPadOS 设备**
-
-* [苹果手机/iPad 怎么翻墙](/devices/ios)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows图标"> Windows PC **设备**
-
-* [Windows 电脑怎么翻墙](/devices/windows)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS图标"> **macOS 设备**
-
-* [苹果Mac 电脑怎么翻墙](/devices/mac)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux图标"> Linux 设备
-
-* [Linux 电脑怎么翻墙](/devices/linux)
-
-## <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS图标"> HarmonyOS (鸿蒙) 设备
-
-* [华为鸿蒙手机怎么翻墙](/devices/harmony)
+| 操作系统 | 设备 | 使用指南 |
+| --- | --- | --- |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7Hh3XGbbAH0jtCKDKIF6_2Fandroid_3.svg" width="38" height="28" alt="安卓图标"> | **安卓设备** | [安卓手机怎么翻墙](/devices/android) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F7GBp8VQdHNWWH3aalDTP_2Fios_3.svg" width="38" height="28" alt="iOS图标"> | **苹果手机、iPad设备** | [苹果手机/iPad 怎么翻墙](/devices/ios) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FbeA5N21M1iATQm5HiGND_2Fwin_1.svg" width="38" height="28" alt="Windows 图标"> | **Windows PC 电脑** | [Windows PC电脑怎么翻墙](/devices/windows) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FrUGve1gm2gP1sXdvgjCw_2Fapple_1.svg" width="38" height="28" alt="macOS 图标"> | **苹果Mac 电脑** | [苹果Mac 电脑怎么翻墙](/devices/mac) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FJJlooO6sJC8xrcR6vqGj_2Flinux_1.svg" width="38" height="28" alt="Linux 图标"> | **Linux 电脑** | [Linux 电脑怎么翻墙](/devices/linux) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FhUBqYs4CpmMcueAi690m_2FHMOS_Logo_Icon_1.svg" width="38" height="28" alt="HarmonyOS 图标"> | **华为鸿蒙设备** | [华为鸿蒙手机怎么翻墙](/devices/harmony) |
 
 ## 常见问题
 

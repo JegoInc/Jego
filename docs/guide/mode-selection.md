@@ -16,7 +16,8 @@ title: 模式选择 - 使用指南
 
 | 开启时 | 关闭时 |
 | --- | --- |
-| ![开启图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![关闭图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png" alt="开启图标" width="32" /> | <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png" alt="关闭图标" width="32" /> |
+
 
 ### 开启
 
@@ -34,7 +35,7 @@ title: 模式选择 - 使用指南
 
 | 全局模式时 | 规则模式时 | 关闭时 |
 | --- | --- | --- |
-| ![全局模式图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FV7GBb6vuAEgevLPNPepU_2Ficon48_3.png) | ![规则模式图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![关闭图标](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FV7GBb6vuAEgevLPNPepU_2Ficon48_3.png" alt="全局模式图标" width="32" /> | <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png" alt="规则模式图标" width="32" /> | <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png" alt="关闭图标" width="32" /> |
 
 ### 全局
 

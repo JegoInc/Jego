@@ -16,7 +16,7 @@ When your Jego is in the state shown in the figure above, it means you are using
 
 | Enabled | Off |
 | --- | --- |
-| ![Enabled icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![Disabled icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png" alt="Enabled icon" width="32" /> | <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png" alt="Disabled icon" width="32" /> |
 
 ### Enable
 
@@ -34,7 +34,8 @@ When you click Off (i.e., the <span style="background-color:grey; color:white; p
 
 | When in Global mode | When in Rules mode | When disabled |
 | --- | --- | --- |
-| ![Global mode icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FV7GBb6vuAEgevLPNPepU_2Ficon48_3.png) | ![Rules mode icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png) | ![Disabled icon](/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png) |
+| <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FV7GBb6vuAEgevLPNPepU_2Ficon48_3.png" alt="Global mode icon" width="32" /> | <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2FVGTFegVqSAfIWesFH8MI_2Ficon-rule-48_1.png" alt="Rules mode icon" width="32" /> | <img src="/images/image_spaces_2FtaiByLw8cj0IZKJTlaiM_2Fuploads_2F4iAsXhiVKUsFyFTfYZBk_2Ficon-off-48_2.png" alt="Disabled icon" width="32" /> |
+
 
 ### Global
 
